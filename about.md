@@ -2,8 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
+![spag]({{site.baseurl}}//2016-06-11%2018.48.11.jpg)![meal]({{site.baseurl}}//2016-06-11%2018.48.07.jpg)
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can't find the source code for the Jekyll new theme at:
