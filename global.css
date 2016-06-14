@@ -1,0 +1,9 @@
+body{
+  padding-top: 70px;
+}
+
+#main-navbar {
+  background-size: cover;
+  margin-bottom: 2px;
+  background-color: #C8252C;
+}

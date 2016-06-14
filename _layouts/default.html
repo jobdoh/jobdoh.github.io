@@ -1,26 +1,49 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>JOBDOH{% if page.url != '/index.html' %} | {{page.title}}{% endif %}</title>
-  <meta charset='UTF-8'/>
-  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-  <link rel='alternate' type='application/rss+xml' title='RSS' href='/blog.rss' />
-  <link rel='shortcut icon' href='img/favicon.ico' type='image/x-icon' />
+  <title>JOBDOH{% if page.url != "/index.html" %} | {{page.title}}{% endif %}</title>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no"/>
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog.rss"/>
+  <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon"/>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+        integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{site.baseurl}}/global.css">
 </head>
 <body>
-  <div class='container'>
-    <div class='col12 clearfix'>
-      <div class='header col6 margin3 pad4h'>
-        <div class='clearfix col12'>
-          <div class='menu fr'>
-            <a class='{% if page.section == "home" %}active{% endif %}' href='{{site.baseurl}}/'>Home</a>
-            <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/blog'>Blog</a>
-            <a class='{% if page.section == "about" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
-          </div>
-          <h1 class='title'><a href='{{site.baseurl}}/'>{{site.title}}</a></h1>
-        </div>
-      </div>
+
+<nav id="main-navbar" class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+              aria-expanded="false" aria-controls="navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="{{site.baseurl}}/" class="navbar-brand">
+        <img src="./current_files/logo.png" style="height: 58px" alt="Jobdoh">
+      </a>
     </div>
-    {{content}}
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a class="{% if page.section == 'home' %}active{% endif %}" href="{{site.baseurl}}/">Home</a></li>
+        <li><a class="{% if page.section == 'blog' %}active{% endif %}" href="{{site.baseurl}}/blog">Blog</a></li>
+        <li><a class="{% if page.section == 'about' %}active{% endif %}" href="{{site.baseurl}}/about">About</a></li>
+      </ul>
+    </div>
   </div>
+</nav>
+
+{{content}}
+
 </body>
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"
+        integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+        integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+        crossorigin="anonymous"></script>
+
+</html>

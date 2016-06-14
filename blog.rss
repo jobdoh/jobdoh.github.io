@@ -14,3 +14,5 @@ description: Occasional Blog Posts
   {% for item in site.categories.blog limit:40 %}{% include rss-item.xml %}{% endfor %}
 </channel>
 </rss>
+
+{% include rss-link.html %}
