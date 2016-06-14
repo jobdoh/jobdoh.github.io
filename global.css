@@ -1,9 +1,20 @@
-body{
-  padding-top: 70px;
+body {
+  font-family: "Roboto", "Lucida Grande", "Lucida Sans Unicode", "STHeitiTC-Light", "Helvetica", "Arial", "Verdana", "sans-serif";
+  padding-top: 80px;
+/*"微軟正黑體", "黑体", "微软雅黑", "宋体",*/
 }
 
 #main-navbar {
   background-size: cover;
   margin-bottom: 2px;
-  background-color: #C8252C;
+  background: #C8252C url('media/parallax1.png') no-repeat;
+  padding: 10px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #E0E0E0;
+  font-weight: 100;
+  text-transform: uppercase;
+  font-size: 16px;
+  letter-spacing: 3px;
 }
