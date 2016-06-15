@@ -1,7 +1,6 @@
 body {
-  font-family: "Roboto", "Lucida Grande", "Lucida Sans Unicode", "STHeitiTC-Light", "Helvetica", "Arial", "Verdana", "sans-serif";
+  font-family: "微軟正黑體", "黑体", "微软雅黑", "宋体", "Roboto", "Lucida Grande", "Lucida Sans Unicode", "STHeitiTC-Light", "Helvetica", "Arial", "Verdana", "sans-serif";
   padding-top: 80px;
-/*"微軟正黑體", "黑体", "微软雅黑", "宋体",*/
 }
 
 #main-navbar {

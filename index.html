@@ -5,7 +5,7 @@ title: Home
 ---
 
 <style>
-  .jumbotron {
+  #main-jumbotron {
     background-size: cover;
     background: url('media/index/index-bg1.png') no-repeat center;
     background-color: inherit;
@@ -14,13 +14,11 @@ title: Home
     margin: 0;
   }
 
-  .jumbotron h2 {
+  #main-jumbotron h1 {
     text-transform: uppercase;
     letter-spacing: -1.5px;
     font-weight: 300;
-    animation-name: fadeInDown;
     animation-delay: 0.4s;
-    font-size: 64px;
     color: #fff;
   }
 
@@ -48,7 +46,21 @@ title: Home
     text-align: center;
   }
 
-  blockquote:before {
+  #testimonials {
+    background-color: #ddd;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-weight: 300;
+  }
+
+  #testimonials blockquote {
+    border-left: 0;
+    margin: 0;
+    padding: 0 0 0 69px;
+    position: relative;
+  }
+
+  #testimonials blockquote:before {
     content: '\f10d';
     position: absolute;
     font-size: 45px;
@@ -57,175 +69,226 @@ title: Home
     font-family: 'FontAwesome', "sans-serif";
     color: #fa5254;
   }
+
+  #testimonials h1 {
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight: 300;
+  }
+
 </style>
 
-<section class="jumbotron">
+<section class="jumbotron" id="main-jumbotron">
   <div class="container">
 
-    <h2 class="text-center">
+    <h1 class="text-center">
       Hire Quality Temporary Workers Quickly
-    </h2>
+    </h1>
 
-    <div class="row ">
+    <div class="row">
       <div class="col-md-6 col-sm-6 col-xs-12 text-center" style="color:#fff;">
-        <div style="animation-name: fadeInLeft;">
-          <img src="media/index/ee-iphone-en.png" alt="jobdoh ee"
-               style="padding-bottom:50px; width:auto; height:400px">
+        <img src="media/index/ee-iphone-en.png" alt="jobdoh ee"
+             style="padding-bottom:50px; width:auto; height:400px">
+        <br>
+        <a class="btn btn-primary btn-lg" href="https://www.jobdoh.com/?lo=en">
+          Get a job</a>
+        <p>
           <br>
-          <a class="btn btn-primary btn-lg"
-             href="https://www.jobdoh.com/?lo=en&amp;affiliate=" data-type="submit">Get a
-            job</a>
-          <p>
-            <br>
-            <a href="https://itunes.apple.com/us/app/zhi-dao/id956413528">
-              <img src="media/apple_download.png"
-                   alt="apple store jobdoh" style="width:auto; height: 35px;">
-            </a>
-            <a href="https://play.google.com/store/apps/details?id=com.jobdoh.employee">
-              <img src="media/google_download.png"
-                   alt="android play store jobdoh" style="width:auto; height: 35px;">
-            </a>
-          </p>
-        </div>
+          <a href="https://itunes.apple.com/app/id956413528">
+            <img src="media/apple_download.png"
+                 alt="apple store jobdoh" style="width:auto; height: 35px;">
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=com.jobdoh.employee">
+            <img src="media/google_download.png"
+                 alt="android play store jobdoh" style="width:auto; height: 35px;">
+          </a>
+        </p>
       </div>
 
 
       <div class="col-md-6 col-sm-6 col-xs-12 text-center" style="color:#fff;">
-        <div style="animation-name: fadeInRight;">
-          <img src="media/index/er-iphone-en.png" alt="jobdoh er"
-               style="padding-bottom:50px; width:auto; height:400px">
+        <img src="media/index/er-iphone-en.png" alt="jobdoh er"
+             style="padding-bottom:50px; width:auto; height:400px">
+        <br>
+        <a class="btn btn-primary btn-lg" href="https://www.jobdoh.com/employer.html?lo=en">
+          Hire workers</a>
+        <p>
           <br>
-          <a class="btn btn-primary btn-lg" href="https://www.jobdoh.com/employer.html?lo=en&amp;affiliate="
-             data-type="submit">Hire workers</a>
-          <p>
-            <br>
-            <a href="https://itunes.apple.com/us/app/zhi-dao-gu-zhu-ban/id956413185">
-              <img src="media/apple_download.png"
-                   alt="apple store jobdoh" style="width:auto; height: 35px;">
-            </a>
-            &nbsp;
-            <a href="https://play.google.com/store/apps/details?id=com.jobdoh.employer">
-              <img src="media/google_download.png"
-                   alt="android play store jobdoh" style="width:auto; height: 35px;">
-            </a>
-          </p>
-        </div>
+          <a href="https://itunes.apple.com/app/id956413185">
+            <img src="media/apple_download.png"
+                 alt="apple store jobdoh" style="width:auto; height: 35px;">
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=com.jobdoh.employer">
+            <img src="media/google_download.png"
+                 alt="android play store jobdoh" style="width:auto; height: 35px;">
+          </a>
+        </p>
       </div>
     </div>
   </div>
 </section>
 
-<section style="background-color: #ddd">
+<section id="testimonials">
   <div class="container">
 
     <div class="row text-left">
 
       <div class="col-md-6 col-sm-12 text-center">
-        <h4>Employee</h4>
+        <h1>Employee</h1>
         <div class="row text-left" style="margin-top: 30px;">
-
-          <div class="col-md-6 col-sm-12 col-xs-12"
-               style="animation-delay: 0.4s;">
-            <div class="thumbnail">
-              <div class="col-md-12 col-sm-12">
-                <blockquote>
-                  Really efficient, and really convenient to get a job! The app is
-                  very user friendly, allowing me to apply for many jobs wherever
-                  I go. I'm happy to say that this is totally like a working
-                  holiday! I would like to thank the <b>JOBDOH</b> team
-                  for making this real.
-                  <cite class="h6">
-                    <img class="img-circle" src="media/index/testimonials/serena.png"
-                         alt="serena found jobdoh mobile app platform efficient and convenient">
-                    Serena C
-                  </cite>
-                </blockquote>
-              </div>
-            </div>
+          <div class="col-md-6 col-sm-12 col-xs-12" style="animation-delay: 0.4s;">
+            <blockquote>
+              Really efficient, and really convenient to get a job! The app is
+              very user friendly, allowing me to apply for many jobs wherever
+              I go. I'm happy to say that this is totally like a working
+              holiday! I would like to thank the <b>JOBDOH</b> team
+              for making this real.
+              <h4>
+                <img class="img-circle" src="media/index/testimonials/serena.png">
+                Serena C
+              </h4>
+            </blockquote>
           </div>
           <div class="col-sm-12 col-xs-12 col-no-margin visible-sm visible-xs">
 
             <hr style="border-top-color: #222;">
           </div>
-          <div class="col-md-6 col-sm-12 col-xs-12"
-               style="animation-delay: 0.2s;">
-            <div class="thumbnail thumbnail_clear_bg">
-              <div class="col-md-12 col-sm-12 ">
-                <blockquote>
-                  Now, I can find jobs quickly and easily! It only took me a few
-                  minutes to apply for a job. I can finally forget about finding
-                  jobs on newspapers – so time consuming. Plus, there's a variety
-                  of jobs to choose from! <b>JOBDOH</b> is highly
-                  flexible, allowing me to apply for as an waiter and promoter at
-                  the same day.
-                  <cite class="h6">
-                    <img class="img-circle" src="media/index/testimonials/yip.png"
-                         alt="eric finds jobs easily using jobdoh">
-                    Yip Chan
-                  </cite>
-                </blockquote>
-              </div>
-            </div>
+          <div class="col-md-6 col-sm-12 col-xs-12" style="animation-delay: 0.2s;">
+            <blockquote>
+              Now, I can find jobs quickly and easily! It only took me a few
+              minutes to apply for a job. I can finally forget about finding
+              jobs on newspapers – so time consuming. Plus, there's a variety
+              of jobs to choose from! <b>JOBDOH</b> is highly
+              flexible, allowing me to apply for as an waiter and promoter at
+              the same day.
+              <h4>
+                <img class="img-circle" src="media/index/testimonials/yip.png">
+                Yip Chan
+              </h4>
+            </blockquote>
           </div>
         </div>
       </div>
 
-
       <div class="col-md-6 col-sm-12 text-center">
-        <h4> Employer </h4>
+        <h1>Employer</h1>
         <div class="row text-left" style="margin-top: 30px;">
-
-          <div class="col-md-6 col-sm-12 col-xs-12 "
-               style="animation-delay: 0.6s;">
-            <div class="thumbnail thumbnail_clear_bg">
-              <div class="col-md-12 col-sm-12 ">
-                <blockquote>
-                  Needed staff urgently for multiple events in Hong Kong.
-                  <b>JOBDOH</b>
-                  provides a quick and efficient job placement solution.The team
-                  has been extremely helpful and was there every single step of
-                  the way.Would highly recommend <b>JOBDOH</b> to anyone
-                  needing a staffing solution.
-
-                  <cite class="h6">
-                    <img class="img-circle"
-                         src="media/index/testimonials/dineanddesign.jpg"
-                         alt="Dine and Design">
-                    &nbsp; Dine &amp; Design Festival
-                  </cite>
-                </blockquote>
-              </div>
-            </div>
+          <div class="col-md-6 col-sm-12 col-xs-12 " style="animation-delay: 0.6s;">
+            <blockquote>
+              Needed staff urgently for multiple events in Hong Kong.
+              <b>JOBDOH</b>
+              provides a quick and efficient job placement solution.The team
+              has been extremely helpful and was there every single step of
+              the way.Would highly recommend <b>JOBDOH</b> to anyone
+              needing a staffing solution.
+              <h4>
+                <img class="img-circle" src="media/index/testimonials/dineanddesign.jpg">
+                Dine &amp; Design Festival
+              </h4>
+            </blockquote>
           </div>
           <div class="col-sm-12 col-xs-12 col-no-margin visible-sm visible-xs">
             <hr style="border-top-color: #222;">
           </div>
-          <div class="col-md-6 col-sm-12 col-xs-12 "
-               style="animation-delay: 0.6s;">
-            <div class="thumbnail thumbnail_clear_bg">
-              <div class="col-md-12 col-sm-12 ">
-                <blockquote>
-                  <b>JOBDOH</b> is an inexpensive platform allowing for
-                  quick access to helpful candidates. Sometimes, all you need is
-                  an extra pair of hands. Let <b>JOBDOH</b> be that for
-                  you. Quality candidates, easy setup, no strings attached, all
-                  helped me get the job done much quicker with
-                  <b>JOBDOH</b>.
+          <div class="col-md-6 col-sm-12 col-xs-12 " style="animation-delay: 0.6s;">
+            <blockquote>
+              <b>JOBDOH</b> is an inexpensive platform allowing for
+              quick access to helpful candidates. Sometimes, all you need is
+              an extra pair of hands. Let <b>JOBDOH</b> be that for
+              you. Quality candidates, easy setup, no strings attached, all
+              helped me get the job done much quicker with
+              <b>JOBDOH</b>.
 
-                  <cite class="h6">
-                    <img class="img-circle" src="media/index/testimonials/kevin.png"
-                         alt="Dine and Design">
-                    Kevin Shih
-                  </cite>
-                </blockquote>
-              </div>
-            </div>
+              <h4>
+                <img class="img-circle" src="media/index/testimonials/kevin.png">
+                Kevin Shih
+              </h4>
+            </blockquote>
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
+
+<section id="awards" class="well1 text-center">
+  <div class="container">
+    <h2>Awards</h2>
+    <div class="row text-left">
+      <div class="col-md-2 col-sm-4 col-xs-6"
+           style="animation-delay: 0.4s;">
+        <figure>
+          <img src="media/index/awards/cyberport.png" alt="Cyberport Award">
+          <figcaption>
+            <p>Incubatee of Cyberport Hong Kong and awardee of CCMF(2014)</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-12 col-xs-12 visible-sm visible-xs">
+        <hr style="border-top-color: #222;">
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-6"
+           style="animation-delay: 0.6s;">
+        <figure>
+          <img src="media/index/awards/seedcamp.png" alt="Seedcamp Award">
+          <figcaption>
+            <p>Seedcamp's (Europe) first Asia Pacific investee</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-12 col-xs-12 visible-sm visible-xs">
+        <hr style="border-top-color: #222;">
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-6"
+           style="animation-delay: 0.8s;">
+        <figure>
+          <img src="media/index/awards/google_eye.png" alt="Google EYE Program">
+          <figcaption>
+            <p>Winner of Empowering Young Entrepreneurs Program (EYE Program 2014)</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-12 col-xs-12 visible-sm visible-xs">
+        <hr style="border-top-color: #222;">
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-6"
+           style="animation-delay: 0.6s;">
+        <figure>
+          <img src="media/index/awards/ict_award.png" alt="Hong Kong ICT Bronze Award">
+          <figcaption>
+            <p>Hong Kong ICT Awards (HKICT Awards) 2015: Best SME ICT (Product) Special Mention</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-12 col-xs-12 visible-sm visible-xs">
+        <hr style="border-top-color: #222;">
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-6"
+           style="animation-delay: 0.6s;">
+        <figure>
+          <img src="media/index/awards/blueprint.png" alt="Swire blueprint">
+          <figcaption>
+            <p>Swire Blueprint's Accelerator Program</p>
+          </figcaption>
+        </figure>
+      </div>
+      <div class="col-sm-12 col-xs-12 visible-sm visible-xs">
+        <hr style="border-top-color: #222;">
+      </div>
+      <div class="col-md-2 col-sm-4 col-xs-6"
+           style="animation-delay: 0.6s;">
+        <figure>
+          <img src="media/index/awards/ozapp.png" alt="Ozapp Awards">
+          <figcaption>
+            <p>Top five finalists in the Asia Pacific OzAPP Awards (Australia)</p>
+          </figcaption>
+        </figure>
+      </div>
+
+    </div>
+  </div>
+</section>
+
 
 <div class="container">
 
