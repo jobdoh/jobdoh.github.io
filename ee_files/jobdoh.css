@@ -1,0 +1,348 @@
+/* @import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,700); 'Noto Sans', */
+
+.en, .zh { display:none !important;} /* hide all elements with a language class */
+.en:lang(en), .zh:lang(zh) { display:block !important; } /* show those elements that match their language class */
+.language { font-size: 15px !important; font-family: "微軟正黑體","黑体","微软雅黑","宋体","Roboto", "Lucida Grande", "Lucida Sans Unicode", "STHeitiTC-Light", "Helvetica","Arial","Verdana","sans-serif" !important;
+    /*letter-spacing: 2px !important;*/ }
+html[lang=zh] body {
+    font-family: "微軟正黑體","黑体","微软雅黑","宋体","Roboto", "Lucida Grande", "Lucida Sans Unicode", "STHeitiTC-Light", "Helvetica","Arial","Verdana","sans-serif" !important;
+    letter-spacing: 0.5px !important;
+    /* line-height: 1.5em; */
+    /*font-weight: 400;*/
+    /* color: #111111; */
+    font-size: 16px;
+}
+html[lang=zh] h1, html[lang=zh] h2, html[lang=zh] h3, html[lang=zh] h4, html[lang=zh] h5, html[lang=zh] h6 { letter-spacing: 3px !important; }
+html[lang=zh] h2 + h6 + h6 { margin-top: 60px; line-height: 1.5em; }
+/* html[lang=zh] p { font-weight: 300; } */
+html[lang=zh] p, html[lang=zh] ul { line-height: 1.5em; }
+html[lang=zh] .btn-sm, html[lang=zh] .btn-group-sm > .btn { font-size: 14px; }
+
+p {
+    font-size: 16px;
+}
+
+body {
+    font-size: 16px;
+    color: #222222;
+    letter-spacing: 0.5px !important;
+}
+
+footer .menu-list {
+    font-size: 12px !important;
+}
+
+footer {
+    background-image: none;
+    background-color: #303334;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #E0E0E0;
+}
+.stuck_container {
+    background: url("../images/parallax1.png") no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    margin-bottom: 2px;
+    background-color: #C8252C;
+}
+
+.bg-main-panel {
+    background-color: #d46657;
+}
+
+.bg-main-panel2 {
+    background-color: #ddd;
+}
+
+.bg-main-panel-er {
+    background-color: #3b7ee0;
+}
+
+.bg-video-embed {
+    background-color: #ddd;
+}
+
+.well-main {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.well-60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.well-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+/*.parallax_image {
+    opacity: 0.25;
+}*/
+.navbar-default .navbar-nav > li + li {
+    margin-left: 44px;
+}
+.navbar-default .navbar-nav > li > a:hover:before,
+.navbar-default .navbar-nav > li > a:focus:before {
+    width: 130%;
+}
+.select-language {
+    color: #fff;
+    background-color: #C8252C;
+    border-color: #fff;
+}
+.select-language label{
+    color: #fff;
+    background-color: #C8252C;
+    border-color: #fff;
+}
+.select-language label:after {
+    border-top: 6px solid #888;
+    border-right: 6px solid transparent;
+    border-left: 6px solid transparent;
+    content: '';
+    position: absolute;
+    right: 10px;
+    top: 16px;
+}
+
+.select-language:hover, .select-language:focus{
+    color: #fff;
+    background-color: #C8252C;
+    border-color: #fff;
+    cursor: pointer;
+}
+.select-language > option:hover{
+    color: #fff;
+    background-color: #C8252C;
+    border-color: #fff;
+    cursor: pointer;
+    box-shadow: 0 0 10px 100px #C8252C inset;
+}
+
+.select-option:hover{
+    color: #fff;
+    background-color: #C8252C;
+    border-color: #fff;
+    cursor: pointer;
+    box-shadow: 0 0 10px 100px #FED20F inset;
+}
+.img-quote {
+    width: 100px;
+    height: 100px;
+    position: static !important;
+    float: right;
+    left: auto;
+    margin: 20px 20px 60px 0;
+}
+
+.img-quote2 {
+    width: 33%;
+    height: 33%;
+    margin: 20px;
+}
+.time-wrap {
+    font-size: 18px;
+}
+
+.time-wrap + * {
+    margin-top: 10px;
+}
+
+.thumbnail2 .caption2 {
+    padding: 0px 0 10px 19px;
+}
+
+.thumbnail .time-wrap2 {
+    font-size: 2em;
+    padding: 20px 20px 0px;
+}
+.email {
+    color: #fa5254 !important;
+}
+
+.email:hover {
+    text-decoration: underline;
+}
+
+.contact p {
+    font-size: 36px;
+}
+.contact [class*='fa-']:before {
+    font-weight: inherit;
+    font-size: inherit;
+}
+h3 [class*='fa-']:before {
+    font-weight: inherit;
+    font-size: inherit;
+}
+.thumbnail_white_bg {
+    background-color: #ddd;
+}
+.thumbnail_clear_bg {
+    background-color: transparent;
+}
+.btn-sm, .btn-group-sm > .btn {
+    font-size: 13px;
+}
+
+.btn-download {
+    color: #fa5254;
+    background-color: transparent;
+    border-color: #fa5254;
+}
+
+.btn-download:hover {
+    color: #ffffff;
+    background-color: #fa5254;
+    border-color: #ffffff;
+}
+
+.btn-dark-theme {
+    border-color: #222;
+    color: #222;
+}
+* + blockquote {
+    font-size: 16px;
+}
+
+.col-no-margin {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* =Custom Select Menu */
+
+.custom-select-menu {
+    display: inline-block;
+    margin-bottom: 8px;
+    outline: none;
+    position: relative;
+}
+
+.custom-select-menu label {
+    border: 1px solid #fff;
+    border-radius: 0px;
+    color: #fff;
+    display: inline-block;
+    font-weight: 300;
+    padding: 2px 38px 2px 2px;
+    position: relative;
+    /* Prevents text-selection on the label. */
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    /* We're giving the label a specific width.
+    Don't forget to set a width for the list of options
+    as well (see below). */
+    width: 200px;
+    font-size: 0.9em;
+}
+
+/* Sometimes you want to change the look of the menu/label
+when a selection with a value has been made. In this case,
+we're increasing the contrast of the font color. */
+.custom-select-menu label.selection-made {
+    color: #fff;
+}
+
+/* Here we're adding a down arrow to make it look more
+like a select menu. */
+.custom-select-menu label:after {
+    border-top: 6px solid #fff;
+    border-right: 6px solid transparent;
+    border-left: 6px solid transparent;
+    content: '';
+    position: absolute;
+    right: 10px;
+    top:8px;
+}
+
+/* When the list of options is displayed we'll remove
+the bottom border-radius on the label so that it sits
+flush next the menu. */
+.custom-select-menu label.opened {
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+/* When the label has focus or is hovered over, increase
+the contrast of the border. */
+.custom-select-menu:focus label,
+.custom-select-menu:hover label {
+    border-color: #fff;
+}
+
+/* If you don't want the menu to be too tall, then
+give it a max-height, but don't forget to allow it to
+scroll so all the options are visible. */
+.custom-select-menu ul {
+    background: #C8252C; /*#C8252C*/
+    border: 1px solid #fff;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    left: 10px;
+    list-style: none;
+    margin: 0 -10px;
+    max-height: 200px;
+    overflow-x: hidden;
+    /* overflow-y: scroll; */
+    position: absolute;
+    top: 22px;
+    width: 200px;
+    z-index: 999;
+    color: #fff;
+    font-size: 0.9em;
+    /*padding-right: 38px; */
+}
+
+.custom-select-menu  li {
+    background-color: #C8252C;
+    cursor: pointer;
+    padding: 7px 10px;
+}
+
+/* When you hover over an option we'll change the
+background color. We'll do the same when an option
+is selected. */
+.custom-select-menu li:hover,
+.custom-select-menu .selected {
+    background-color: #fa5254;
+}
+@media (min-width: 1200px) {
+    #contact-form label, .sign-form label {
+        width: 31.3333%;
+    }
+}
+
+@media (max-width: 990px) {
+    .img-hide991 {
+        display: none !important;
+    }
+
+    .contact p {
+        font-size: 28px;
+    }
+}
+
+@media (max-width: 767px) {
+    .well, .well1, .well2, .well3, .well4 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .contact p {
+        font-size: 16px;
+    }
+
+
+}
+/*color of text on parallax landing image*/
+.parallax h2 {
+    color:#FFFFFF;
+}
+
+.parallax h2, h2, .h2 {
+    font-size: 64px;
+}
