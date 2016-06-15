@@ -7,7 +7,7 @@ body {
 #main-navbar {
   background-size: cover;
   margin-bottom: 2px;
-  background: #C8252C url('media/parallax1.png') no-repeat;
+  background: #C8252C url('media/global/parallax1.png') no-repeat;
   padding: 10px;
 }
 
