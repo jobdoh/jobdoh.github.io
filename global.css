@@ -1,3 +1,6 @@
+---
+---
+
 body {
   font-family: "微軟正黑體", "黑体", "微软雅黑", "宋体", "Roboto", "Lucida Grande", "Lucida Sans Unicode", "STHeitiTC-Light", "Helvetica", "Arial", "Verdana", "sans-serif";
   padding-top: 80px;
@@ -6,7 +9,7 @@ body {
 #main-navbar {
   background-size: cover;
   margin-bottom: 2px;
-  background: #C8252C url('media/global/parallax1.png') no-repeat;
+  background: #C8252C url('{{site.baseurl}}/media/global/parallax1.png') no-repeat;
   padding: 10px;
 }
 
