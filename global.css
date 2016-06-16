@@ -23,6 +23,7 @@ body {
   padding: 20px 0;
   color: #fff;
   text-transform: uppercase;
+  font-weight: 300;
 }
 
 #main-footer ul > li {
