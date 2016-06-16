@@ -33,3 +33,25 @@ body {
 #main-footer a {
   color: #fff;
 }
+
+#main-footer-contact {
+  text-transform: none;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+#main-footer-contact a:hover {
+  text-decoration: none;
+}
+
+#main-footer-contact h1 {
+  font-weight: 300;
+}
+
+#main-footer-contact .icons > li {
+  height: 40px;
+  width: 40px;
+  font-size: 30px;
+  margin-top: 20px;
+}

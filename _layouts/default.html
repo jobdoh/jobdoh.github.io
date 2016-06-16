@@ -34,12 +34,13 @@
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
         <li><a class="{% if page.section == 'home' %}active{% endif %}" href="{{site.baseurl}}/">Home</a></li>
-        <li><a class="{% if page.section == 'employee' %}active{% endif %}" href="{{site.baseurl}}/employee">Get a Job</a>
+        <li><a class="{% if page.section == 'employee' %}active{% endif %}" href="{{site.baseurl}}/employee">
+          Get a Job</a>
         </li>
-        <li><a class="{% if page.section == 'employer' %}active{% endif %}" href="{{site.baseurl}}/employer">Hire Workers</a>
+        <li><a class="{% if page.section == 'employer' %}active{% endif %}" href="{{site.baseurl}}/employer">
+          Hire Workers</a>
         </li>
         <li><a class="{% if page.section == 'blog' %}active{% endif %}" href="{{site.baseurl}}/blog">Blog</a></li>
-        <li><a class="{% if page.section == 'about' %}active{% endif %}" href="{{site.baseurl}}/about">Contact</a></li>
       </ul>
     </div>
   </div>
@@ -49,13 +50,24 @@
 
 <footer id="main-footer">
   <div class="container">
-
+    <div class="row">
+      <div class="col-md-12" id="main-footer-contact">
+        <h1>
+          <i class="fa fa-envelope"></i> <a href="mailto:info@jobdoh.com">info@jobdoh.com</a>
+        </h1>
+        <ul class="list-inline icons">
+          <li><a href="https://www.facebook.com/JOBDOHHK/" class="fa fa-facebook" target="_blank"></a></li>
+          <li><a href="https://www.linkedin.com/company/10099623" class="fa fa-linkedin" target="_blank"></a></li>
+          <li><a href="https://twitter.com/JOBDOH" class="fa fa-twitter" target="_blank"></a></li>
+        </ul>
+      </div>
+    </div>
     <div class="row">
       <div class="col-md-3">
-        <p>
-          <a href="">Terms &amp; Conditions</a><br>
-          <a href="">Privacy</a>
-        </p>
+        <ul class="list-inline">
+          <li><a href="">Terms</a></li>
+          <li><a href="">Privacy</a></li>
+        </ul>
       </div>
 
       <div class="col-md-3 col-md-push-6 text-right">
