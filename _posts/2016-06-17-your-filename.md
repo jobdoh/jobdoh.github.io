@@ -3,7 +3,7 @@ layout: blog-post
 section: blog
 published: true
 category: blog
-title: Untitled
+title: Thank you for supporting JOBDOH in Chivas "The Venture"
 ---
 ![foo]({{site.baseurl}}/media/xw1.png)
 
