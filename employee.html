@@ -95,16 +95,16 @@ permalink: employee/
 
     <div class="row">
       <div class="col-md-12">
-        <form id="signup-form1" class="signup-form text-center">
+        <form class="signup-form text-center" action="#"
+              onsubmit="window.location=&#39;https://jobdoh.com/?lo=en&amp;affiliate=#/sign?mode=Up&amp;email=&#39;+$(&#39;[name=email]&#39;).val(); return false;">
           <div class="contact-form-loader"></div>
           <br class="visible-sm visible-xs">
           <fieldset>
             <label class="email text-left">
-              <input type="email" name="email1" placeholder="Enter Your Email" required>
+              <input type="email" name="email" placeholder="Enter Your Email" required>
             </label>
-            <a id="signup-form-submit-btn" class="btn-wr btn btn-primary btn-lg"
-               onclick="window.location=&#39;https://jobdoh.com/?lo=en&amp;affiliate=#/sign?mode=Up&amp;email=&#39;+$(&#39;[name=email1]&#39;).val()">
-              GET A JOB NOW!</a>
+            <input type="submit" id="signup-form-submit-btn" class="btn-wr btn btn-primary btn-lg"
+                   value="GET A JOB NOW!"/>
           </fieldset>
         </form>
       </div>
