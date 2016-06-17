@@ -21,7 +21,7 @@ title: Blog
       <div class="col-md-8">
         <h2>Blog</h2>
 
-        {% for item in site.categories.blog limit:1000 %}
+        {% for item in paginator.posts limit:1000 %}
         {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
         {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
 

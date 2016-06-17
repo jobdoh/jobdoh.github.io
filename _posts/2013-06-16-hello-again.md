@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 published: true
-category: blog
+category: press
 splash: "http://placehold.it/1600x500"
 tags: null
 title: Untitled

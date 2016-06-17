@@ -7,6 +7,10 @@ url: "https://jobdoh.github.io" # the base hostname & protocol for your site
 
 gems: [jekyll-paginate]
 
+permalink: pretty
+
+excerpt_separator: <!--more-->
+
 paginate: 2
 paginate_path: "/blog/:num/"
 
