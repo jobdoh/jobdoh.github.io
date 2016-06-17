@@ -4,7 +4,7 @@ section: blog
 published: true
 category: blog
 title: Thank you for supporting JOBDOH in Chivas "The Venture"
-redirect_from: pages/blog/997/
+permalink: pages/blog/997/
 ---
 ![foo]({{site.baseurl}}/media/xw1.png)
 
