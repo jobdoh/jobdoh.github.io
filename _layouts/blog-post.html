@@ -3,6 +3,12 @@ layout: default
 section: blog
 ---
 
+<style>
+  .blog-post img {
+    max-width: 100%;
+  }
+</style>
+
 {% if page.splash %}
 {% if page.splash contains 'http' %}
 {% capture url %}{{page.splash}}{% endcapture %}
@@ -17,7 +23,7 @@ section: blog
 
 <section class='container'>
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-8 blog-post">
       <div class='heading'>
         <h1>{{page.title}}</h1><span class='date'>{{page.date | date:"%b %d"}}</span>
       </div>
