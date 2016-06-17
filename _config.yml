@@ -7,6 +7,7 @@ url: "https://jobdoh.github.io" # the base hostname & protocol for your site
 
 gems:
   - jekyll-paginate
+  - jekyll-redirect-from
 
 permalink: pretty
 
