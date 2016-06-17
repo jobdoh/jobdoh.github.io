@@ -50,6 +50,11 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+      - name: "redirect_from"
+        field:
+          element: "text"
+          label: "Redirect From"
+          value: ""
       - name: "tags"
         field:
           element: "multiselect"
@@ -58,24 +63,3 @@ prose:
           options:
             - name: "Apples"
               value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
