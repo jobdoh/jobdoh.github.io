@@ -4,9 +4,9 @@ section: blog
 published: true
 category: blog
 title: Untitled
-splash: ''
-tags: ''
 ---
+![foo]({{site.baseurl}}/media/xw1.png)
+
 Hello all
 
 The five-week long public voting portion of the Chivas Venture competition is officially over. I want to send my most sincere gratitude to all of you who supported us along the way! 😘
@@ -22,7 +22,7 @@ Please continue to support us and help our users build their stories!
 Humbly yours
 Xania
 
-<iframe src="https://www.youtube.com/embed/TV62bD7QQgM" frameborder="0" allowfullscreen="" id="fitvid889758"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TV62bD7QQgM" frameborder="0" allowfullscreen></iframe>
 
 大家好！
 
