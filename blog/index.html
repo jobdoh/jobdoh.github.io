@@ -10,20 +10,25 @@ title: Blog
     background-size: cover;
     height: 8em;
   }
+
+  .blog-post img {
+    max-width: 100%;
+  }
+
 </style>
 
 <div id="splash-div"></div>
 
 
 <section id="posts">
-  <div class='container'>
+  <div class="container">
     <div class="row">
       <div class="col-md-8">
         {% for item in paginator.posts limit:1000 %}
         {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
         {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
 
-        <div class="panel panel-default">
+        <div class="panel panel-default blog-post">
           <div class="panel-body">
             <a class='item' href='{{site.baseurl}}{{item.url}}'>
               <h1>{{item.title}}</h1>

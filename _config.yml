@@ -23,14 +23,6 @@ prose:
   media: 'media'
   metadata:
     _posts:
-      - name: "published"
-        field:
-          element: "select"
-          options:
-            - name: "Blog"
-              value: "blog"
-            - name: "Press"
-              value: "press"
       - name: "category"
         field:
           element: "select"
