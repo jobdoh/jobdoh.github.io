@@ -9,7 +9,7 @@ section: blog
   }
 </style>
 
-{% if page.splash && page.splash != '' %}
+{% if page.splash and page.splash != '' %}
 {% if page.splash contains 'http' %}
 {% capture url %}{{page.splash}}{% endcapture %}
 {% else %}
@@ -20,6 +20,7 @@ section: blog
   <img src='{{ url }}' style="width: 100%"/>
 </div>
 {% endif %}
+
 
 <section class='container'>
   <div class="row">
