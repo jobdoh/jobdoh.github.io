@@ -40,6 +40,11 @@ prose:
         field:
           element: "hidden"
           value: "blog-post"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
       - name: "title"
         field:
           element: "text"
