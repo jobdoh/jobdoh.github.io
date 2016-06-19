@@ -24,6 +24,9 @@ prose:
   media: 'media'
   metadata:
     _posts:
+      - name: "published"
+        field:
+          element: "checkbox"
       - name: "category"
         field:
           element: "select"
