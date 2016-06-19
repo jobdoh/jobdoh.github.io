@@ -2,8 +2,8 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
-title: ''
+published: true
+title: Untitled
 ---
 ![jobdoh-fb-onsummit-750x1000.jpg]({{site.baseurl}}/media/jobdoh-fb-onsummit-750x1000.jpg)
 
