@@ -26,7 +26,13 @@ section: blog
   <div class="row">
     <div class="col-md-8 blog-post">
       <div class='heading'>
-        <h1>{{page.title}}</h1><span class='date'>{{page.date | date:"%b %d"}}</span>
+        <h1>{{page.title}}</h1>
+        <i class="fa fa-calendar" aria-hidden="true"></i>
+        {{page.date | date_to_string}}
+        {% if page.author and page.author != '' %}
+        <i class="fa fa-pencil" aria-hidden="true"></i>
+        {{page.author}}
+        {% endif %}
       </div>
       {{content}}
     </div>

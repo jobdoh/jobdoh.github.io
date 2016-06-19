@@ -33,7 +33,12 @@ title: Blog
             <a class='item' href='{{site.baseurl}}{{item.url}}'>
               <h1>{{item.title}}</h1>
             </a>
-            <span>{{item.date | date_to_string}}</span>
+            <i class="fa fa-calendar" aria-hidden="true"></i>
+            {{item.date | date_to_string}}
+            {% if item.author and item.author != '' %}
+            <i class="fa fa-pencil" aria-hidden="true"></i>
+            {{item.author}}
+            {% endif %}
             <p>
               {{item.excerpt}}
             </p>
