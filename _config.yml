@@ -26,7 +26,7 @@ prose:
     _posts:
       - name: "published"
         field:
-          label: "published"
+          label: "Published"
           element: "checkbox"
       - name: "category"
         field:
