@@ -2,6 +2,7 @@
 layout: page
 title: JOBDOH Terms &amp; Conditions
 permalink: terms/
+lang: en
 ---
 
 The terms and conditions stated herein (collectively, the "Agreement") constitute a legal agreement between you and Jobdoh, Inc.,  (a limited liability company incorporated under the laws of Hong Kong), its subsidiaries, affiliates and associated companies (the “Company”, “we or “us”). In order to use the Service (defined below) and the associated Application (defined below) you must agree to the terms and conditions that are set out below. By using or receiving any services supplied to you by the Company (collectively, the "Service"), and downloading, installing or using any associated application supplied by the Company which purpose is to enable you to use the Service (collectively, the "Application"), you hereby expressly acknowledge and agree to be bound by the terms and conditions of the Agreement, and any future amendments and additions to this Agreement as published from time to time at [http://www.jobdoh.com/](http://www.jobdoh.com/) or through the Service.
@@ -206,5 +207,7 @@ THE COMPANY DOES NOT PROVIDE RECRUITMENT SERVICES, AND THE COMPANY IS NOT AN EMP
 20. **Changes to this Agreement and the Service**
 
     Company reserves the right, at its sole and absolute discretion, to change, modify, add to, supplement or delete any of the terms and conditions of this Agreement (including the Privacy Policy) and review, improve, modify or discontinue, temporarily or permanently, the Service or any content or information through the Service at any time, effective with or without prior notice and without any liability to Company. Company will endeavor to notify you of these changes by email, but will not be liable for any failure to do so. If any future changes to this Agreement are unacceptable to you or cause you to no longer be in compliance with this Agreement, you must terminate (with notice in writing), and immediately stop using, the Service. Your continued use of the Service following any revision to this Agreement constitutes your complete and irrevocable acceptance of any and all such changes. Company may change, modify, suspend, or discontinue any aspect of the Service at any time without notice or liability. Company may also impose limits on certain features or restrict your access to parts or all of the Service without notice or liability.
+
+***
 
 I HEREBY ACKNOWLEDGE THAT I HAVE READ AND UNDERSTAND THE FOREGOING TERMS OF SERVICE, PRIVACY POLICY AND MARKETPLACE GUIDELINES AND AGREE THAT MY USE OF THE SERVICE IS AN ACKNOWLEDGMENT OF MY AGREEMENT TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT.
