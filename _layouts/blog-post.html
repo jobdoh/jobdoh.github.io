@@ -9,7 +9,7 @@ section: blog
   }
 </style>
 
-{% if page.splash %}
+{% if page.splash && page.splash != '' %}
 {% if page.splash contains 'http' %}
 {% capture url %}{{page.splash}}{% endcapture %}
 {% else %}
