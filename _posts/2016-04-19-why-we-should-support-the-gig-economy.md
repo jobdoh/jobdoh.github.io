@@ -2,11 +2,8 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: Why we should support the ‘Gig Economy’
-splash: ''
-redirect_from: ''
-tags: ''
 ---
 ![gig-econ.jpg]({{site.baseurl}}/media/gig-econ.jpg)
 
@@ -16,4 +13,3 @@ tags: ''
 “Gig jobs” – the newest term for the employment of freelancers or independent contractors – are invoking a lot of discussion these days.
 
 [Learn More](https://www.linkedin.com/pulse/case-against-full-time-employees-dave-ashton)
-
