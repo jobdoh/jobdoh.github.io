@@ -3,7 +3,7 @@ layout: blog-post
 section: blog
 category: blog
 published: true
-title: '  '
+title: '  Having fun at OnSummit :)'
 ---
 ![jobdoh-fb-onsummit-750x1000.jpg]({{site.baseurl}}/media/jobdoh-fb-onsummit-750x1000.jpg)
 
