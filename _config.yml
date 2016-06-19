@@ -25,6 +25,7 @@ prose:
   metadata:
     _posts:
       - name: "published"
+        label: "published"
         field:
           element: "checkbox"
       - name: "category"
