@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JOBDOH Terms &amp; Conditions
+title: Terms &amp; Conditions
 permalink: terms/
 lang: en
 ---

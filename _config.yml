@@ -3,16 +3,23 @@ email: info@jobdoh.com
 description: > # this means to ignore newlines until "baseurl:"
   Need pre-screened quick or last-minute temporary help or work? Download JOBDOH today, an award-wining smart booking platform to solve your temp work hiring needs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jobdoh.github.io" # the base hostname & protocol for your site
+url: http://page.jobdoh.com
+
+logo: /media/global/jobdoh-logo.png
+twitter:
+  username: JOBDOH
+facebook:
+  publisher: https://www.facebook.com/JOBDOHHK/
+google_site_verification: ''
 
 gems:
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 permalink: pretty
 
 excerpt_separator: <!--more-->
-
 paginate: 2
 paginate_path: "/blog/:num/"
 
@@ -40,31 +47,38 @@ prose:
         field:
           element: "hidden"
           value: "blog-post"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
       - name: "title"
         field:
           element: "text"
           label: "Title"
           value: ""
+      - name: "description"
+        field:
+          element: "text"
+          label: "Description"
+          value: ""
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: ""
       - name: "splash"
         field:
           element: "text"
-          label: "Splash image"
+          label: "Splash Image"
+          value: ""
+      - name: "image"
+        field:
+          element: "text"
+          label: "SEO Image"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
           value: ""
       - name: "redirect_from"
         field:
           element: "text"
           label: "Redirect From"
           value: ""
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
