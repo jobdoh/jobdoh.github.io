@@ -72,13 +72,3 @@ prose:
           element: "text"
           label: "SEO Image"
           value: ""
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
-      - name: "redirect_from"
-        field:
-          element: "text"
-          label: "Redirect From"
-          value: ""
