@@ -3,7 +3,7 @@ email: info@jobdoh.com
 description: > # this means to ignore newlines until "baseurl:"
   Need pre-screened quick or last-minute temporary help or work? Download JOBDOH today, an award-wining smart booking platform to solve your temp work hiring needs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://page.jobdoh.com
+url: https://page.jobdoh.com
 
 logo: /media/global/jobdoh-logo.png
 twitter:
