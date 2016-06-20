@@ -1,6 +1,5 @@
 ---
 ---
-
 body {
   font-family: "微軟正黑體", "黑体", "微软雅黑", "宋体", "Roboto", "Lucida Grande", "Lucida Sans Unicode", "STHeitiTC-Light", "Helvetica", "Arial", "Verdana", "sans-serif";
   padding-top: 80px;
@@ -44,7 +43,7 @@ body {
   padding-bottom: 80px;
 }
 
-#main-footer-contact a:hover:active {
+#main-footer-contact a:active, a:hover, a:focus {
   text-decoration: none;
 }
 
