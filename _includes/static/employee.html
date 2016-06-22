@@ -1,8 +1,7 @@
-
 <style>
   #main-jumbotron {
     background-size: cover;
-    background: url('{{site.baseurl}}/media/employee/ee-bg.png') no-repeat center;
+    background: url('{{site.baseurl}}/media/employee/bg.png') no-repeat center;
     background-color: inherit;
     padding-top: 100px;
     padding-bottom: 100px;
@@ -84,7 +83,7 @@
   <div class="container">
 
     <h1 class="text-center">
-      Get a Temporary Job Now
+      {{ site.data.[page.lang].employee['JUMBO_TITLE'] }}
     </h1>
 
     <div class="row">
@@ -95,10 +94,11 @@
           <br class="visible-sm visible-xs">
           <fieldset>
             <label class="email text-left">
-              <input type="email" name="email" placeholder="Enter Your Email" required>
+              <input type="email" name="email"
+                     placeholder="{{ site.data.[page.lang].employee['ENTER_EMAIL_PLACEHOLDER'] }}" required>
             </label>
             <input type="submit" id="signup-form-submit-btn" class="btn-wr btn btn-primary btn-lg"
-                   value="GET A JOB NOW!"/>
+                   value="{{ site.data.[page.lang].employee['SIGNUP_ACTION'] }}"/>
           </fieldset>
         </form>
       </div>
@@ -118,47 +118,47 @@
         <div class="text-left"
              style="font-size: 24px;">
           <div style="width: 20%; float: left">
-            <img src="{{site.baseurl}}/media/employee/ee_02.png" style="width:50px; height:50px">
+            <img src="{{site.baseurl}}/media/employee/feature_1.png" style="width:50px; height:50px">
           </div>
           <div style="padding-top: 7px;">
-            Above market wages at <b>$50 - $200</b>
+            {{ site.data.[page.lang].employee['FEATURE_1'] }}
           </div>
         </div>
         <p>&nbsp;</p>
         <div class="text-left"
              style="font-size: 24px;">
           <div style="width: 20%; float: left">
-            <img src="{{site.baseurl}}/media/employee/ee_01.png" style="width:50px; height:50px">
+            <img src="{{site.baseurl}}/media/employee/feature_2.png" style="width:50px; height:50px">
           </div>
           <div style="padding-top: 7px;">
-            Quick applications
+            {{ site.data.[page.lang].employee['FEATURE_2'] }}
           </div>
         </div>
         <p>&nbsp;</p>
         <div class="text-left"
              style="font-size: 24px;">
           <div style="width: 20%; float: left">
-            <img src="{{site.baseurl}}/media/employee/ee_03.png" style="width:50px; height:50px">
+            <img src="{{site.baseurl}}/media/employee/feature_3.png" style="width:50px; height:50px">
           </div>
           <div style="padding-top: 7px;">
-            Reliable employers
+            {{ site.data.[page.lang].employee['FEATURE_3'] }}
           </div>
         </div>
         <p>&nbsp;</p>
         <div class="text-left"
              style="font-size: 24px;">
           <div style="width: 20%; float: left">
-            <img src="{{site.baseurl}}/media/employee/ee_04.png" style="width:50px; height:50px">
+            <img src="{{site.baseurl}}/media/employee/feature_4.png" style="width:50px; height:50px">
           </div>
           <div style="padding-top: 7px;">
-            Track record building
+            {{ site.data.[page.lang].employee['FEATURE_4'] }}
           </div>
         </div>
 
         <div class="row text-center"
              style="margin-top: 45px; margin-left: 4px; margin-right: 15px;">
           <p style="margin-left: 10%; font-size: 2.0em;">
-            <b>GET A JOB NOW!</b>
+            <b>{{ site.data.[page.lang].employee['SIGNUP_ACTION'] }}</b>
           </p>
           <p style="margin-top: 17px; margin-left: 10%">
             <a href="https://itunes.apple.com/app/id956413528">
