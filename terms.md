@@ -5,7 +5,7 @@ permalink: terms/
 lang: en
 ---
 
-The terms and conditions stated herein (collectively, the "Agreement") constitute a legal agreement between you and Jobdoh, Inc.,  (a limited liability company incorporated under the laws of Hong Kong), its subsidiaries, affiliates and associated companies (the “Company”, “we or “us”). In order to use the Service (defined below) and the associated Application (defined below) you must agree to the terms and conditions that are set out below. By using or receiving any services supplied to you by the Company (collectively, the "Service"), and downloading, installing or using any associated application supplied by the Company which purpose is to enable you to use the Service (collectively, the "Application"), you hereby expressly acknowledge and agree to be bound by the terms and conditions of the Agreement, and any future amendments and additions to this Agreement as published from time to time at [http://www.jobdoh.com/](http://www.jobdoh.com/) or through the Service.
+The terms and conditions stated herein (collectively, the "Agreement") constitute a legal agreement between you and Jobdoh, Ltd.,  (a limited liability company incorporated under the laws of Hong Kong), its subsidiaries, affiliates and associated companies (the “Company”, “we or “us”). In order to use the Service (defined below) and the associated Application (defined below) you must agree to the terms and conditions that are set out below. By using or receiving any services supplied to you by the Company (collectively, the "Service"), and downloading, installing or using any associated application supplied by the Company which purpose is to enable you to use the Service (collectively, the "Application"), you hereby expressly acknowledge and agree to be bound by the terms and conditions of the Agreement, and any future amendments and additions to this Agreement as published from time to time at [http://www.jobdoh.com/](http://www.jobdoh.com/) or through the Service.
 
 The Company reserves the right to modify the terms and conditions of this Agreement or its policies relating to the Service or Application at any time, effective upon posting of an updated version of this Agreement on the Service or Application.
 
@@ -221,7 +221,7 @@ In the event of any conflict between the English and other language versions, th
 
 ## 【職到】條款和細則
 
-在此所述之各項條款和細則（統稱「本協議」）乃閣下與**Jobdoh, Inc.**（此乃依據香港法律成立之有限公司）、其子公司、附屬公司及聯營公司（統稱「本公司」、「我方」或「我們」）之間之法律協議。如要使用本服務（具體細節見下）及相關應用程式（具體細節見下），閣下必須同意以下條款和細則。倘閣下欲使用或接受任何由本公司提供之服務（統稱「本服務」）以及下載、安裝或使用任何由本公司為了讓閣下使用本服務而提供之相關應用程式（統稱「相關應用程式」），閣下謹此表示閣下承認並同意受本協議條款和細則之約束以及將來之修改及附加條文之約束，具體資料將不時在網站更新（網址為 [http://www.jobdoh.com](http://www.jobdoh.com) 或透過本服務公佈。
+在此所述之各項條款和細則（統稱「本協議」）乃閣下與**Jobdoh, Ltd.**（此乃依據香港法律成立之有限公司）、其子公司、附屬公司及聯營公司（統稱「本公司」、「我方」或「我們」）之間之法律協議。如要使用本服務（具體細節見下）及相關應用程式（具體細節見下），閣下必須同意以下條款和細則。倘閣下欲使用或接受任何由本公司提供之服務（統稱「本服務」）以及下載、安裝或使用任何由本公司為了讓閣下使用本服務而提供之相關應用程式（統稱「相關應用程式」），閣下謹此表示閣下承認並同意受本協議條款和細則之約束以及將來之修改及附加條文之約束，具體資料將不時在網站更新（網址為 [http://www.jobdoh.com](http://www.jobdoh.com) 或透過本服務公佈。
 
 本公司保留權利隨時修改本協議條款和細則或修改本服務或相關應用程式之相關政策之權利。本協議之更新版本一經本服務或相關應用程式發佈，將即時生效。
 
