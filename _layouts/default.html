@@ -1,4 +1,10 @@
 <!DOCTYPE html>
+{% assign pageLang = page.lang %}
+{% if page.lang != true %}
+{% assign pageLang = 'en' %}
+{% else %}
+{% assign pageLang = page.lang %}
+{% endif %}
 <html>
 <head>
   <title>JOBDOH{% if page.url != "/index.html" %} | {{page.title}}{% endif %}</title>
@@ -23,6 +29,7 @@
 </head>
 
 <body>
+
 <script src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5" async></script>
 
 <nav id="main-navbar" class="navbar navbar-default navbar-fixed-top">
@@ -41,30 +48,30 @@
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
         <li><a class="{% if page.section == 'home' %}active{% endif %}" href="{{site.baseurl}}/">
-          {{ site.data.[page.lang].default['NAV_HOME'] }}
+          {{ site.data.[pageLang].default['NAV_HOME'] }}
         </a></li>
         <li><a class="{% if page.section == 'employee' %}active{% endif %}" href="{{site.baseurl}}/employee">
-          {{ site.data.[page.lang].default['NAV_EMPLOYEE'] }}
+          {{ site.data.[pageLang].default['NAV_EMPLOYEE'] }}
         </a>
         </li>
         <li><a class="{% if page.section == 'employer' %}active{% endif %}" href="{{site.baseurl}}/employer">
-          {{ site.data.[page.lang].default['NAV_EMPLOYER'] }}
+          {{ site.data.[pageLang].default['NAV_EMPLOYER'] }}
         </a>
         </li>
         <li><a class="{% if page.section == 'blog' %}active{% endif %}" href="{{site.baseurl}}/blog">
-          {{ site.data.[page.lang].default['NAV_BLOG'] }}
+          {{ site.data.[pageLang].default['NAV_BLOG'] }}
         </a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
              aria-expanded="false">
-            {{ site.data.[page.lang].default['NAV_LOGIN'] }}
+            {{ site.data.[pageLang].default['NAV_LOGIN'] }}
             <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="https://app.jobdoh.com/?lo=en#/sign?mode=In">
-              {{ site.data.[page.lang].default['NAV_LOGIN_EMPLOYEES'] }}
+              {{ site.data.[pageLang].default['NAV_LOGIN_EMPLOYEES'] }}
             </a></li>
             <li><a href="https://app.jobdoh.com/employer.html?lo=en#/sign?mode=In">
-              {{ site.data.[page.lang].default['NAV_LOGIN_EMPLOYERS'] }}
+              {{ site.data.[pageLang].default['NAV_LOGIN_EMPLOYERS'] }}
             </a></li>
           </ul>
         </li>
@@ -93,7 +100,7 @@
       <div class="col-md-3">
         <ul class="list-inline">
           <li><a href="{{site.baseurl}}/terms">
-            {{ site.data.[page.lang].default['FOOTER_TERMS'] }}
+            {{ site.data.[pageLang].default['FOOTER_TERMS'] }}
           </a></li>
         </ul>
       </div>
