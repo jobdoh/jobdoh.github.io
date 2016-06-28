@@ -139,7 +139,7 @@
 
 </head>
 <body>
-<a class="affiliate-link" href="http://page.jobdoh.com/?affiliate=" target="_blank" style="text-decoration: none;">
+<a class="link" href="http://page.jobdoh.com/?affiliate=" target="_blank" style="text-decoration: none;">
   <div id="slides" class="slides" style="display: inline; width: 275px; height: 130px">
     <img class="slide" src="./images/s4.jpg" id="slide" style="width: 275px; height: 130px; left:0; top:0;"/>
   </div>
@@ -150,7 +150,7 @@
       Quick hire at your fingertip
       <p>Efficient, Reliable, Convenient</p>
     </div>
-    <a class="btn-primary btn-right-bottom affiliate-link" href="http://page.jobdoh.com/?affiliate="
+    <a class="btn-primary btn-right-bottom link" href="http://page.jobdoh.com/?affiliate="
        target="_blank">Hire NOW</a>
   </div>
 </a>
@@ -168,8 +168,7 @@
 
   slideit();
 
-
-  [].slice.call(document.getElementsByClassName('affiliate-link')).forEach(function (a) {
+  [].slice.call(document.getElementsByClassName('link')).forEach(function (a) {
     a.href = 'http://page.jobdoh.com/?affiliate=' + location.search.substr(1)
   })
 
