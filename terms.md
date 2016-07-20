@@ -111,7 +111,7 @@ THE COMPANY DOES NOT PROVIDE RECRUITMENT SERVICES, AND THE COMPANY IS NOT AN EMP
 
     By providing your mobile phone number and using the Service, you hereby affirmatively consent to our use of your mobile phone number for calls and texts in order to perform and improve upon the Service. Company will not assess any charges for calls or texts, but standard message charges or other charges from your wireless carrier may apply. You may opt-out of receiving text messages from us by modifying your account settings on the Site or Company’s mobile application, or by emailing [support@jobdoh.com](mailto:support@jobdoh.com)
 
-8.  **Your Information and Likeness**
+8.  **a) Your Information and Likeness**
 
     Your Information” is defined as any information and materials you provide to Company or other Users in connection with your registration for and use of the Service, including without limitation that posted or transmitted for use in Public Areas. You are solely responsible for Your Information, and we act merely as a passive conduit for your online distribution and publication of Your Information. The information and materials described in this Section, as provided by each User, is collectively referred to herein as “User Generated Content.” You hereby represent and warrant to Company that Your Information (a) will not be false, inaccurate, incomplete or misleading; (b) will not be fraudulent or involve the sale of counterfeit or stolen items; (c) will not infringe any third party's copyright, patent, trademark, trade secret or other proprietary right or rights of publicity or privacy; (d) will not violate any law, statute, ordinance, or regulation (including without limitation those governing export control, consumer protection, unfair competition, anti-discrimination or false advertising); (e) will not be defamatory, libelous, unlawfully threatening, or unlawfully harassing; (f) will not be obscene or contain child pornography or be harmful to minors; (g) will not contain any viruses, Trojan Horses, worms, time bombs, cancelbots or other computer programming routines, and/ or malwares, among other things, that are intended to damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information; and (h) will not create liability for Company or cause Company to lose (in whole or in part) the services of its ISPs or other Clients or suppliers.
 
@@ -128,7 +128,21 @@ THE COMPANY DOES NOT PROVIDE RECRUITMENT SERVICES, AND THE COMPANY IS NOT AN EMP
 
         Each Tasker hereby waives all rights and releases the Company from, and shall neither sue nor bring any proceeding against any such parties for, any claim or cause of action, whether now known or unknown, for defamation, invasion of right to privacy, publicity or personality or any similar matter, or based upon or relating to the use and exploitation of such Tasker’s identity, likeness or voice in connection with the Service.
 
-        Each Tasker acknowledges that the Company shall not owe any financial or other remuneration for using the recordings provided hereunder by such Tasker, either for initial or subsequent transmission or playback, and further acknowledges that the Company is not responsible for any expense or liability incurred as a result of such Tasker’s recordings or participation in any recordings, including any loss of such recording data.
+        Each Tasker acknowledges that the Company shall not owe any financial or other remuneration for using the recordings provided hereunder by such Tasker, either for initial or subsequent transmission or playback, and further acknowledges that the Company is not responsible for any expense or liability incurred as a result of such Tasker’s recordings or participation in any recordings, including any loss of such recording data
+
+    **b) Personal Information Collection Statement ("PICS")**
+
+    - Data collection for task application are voluntary. However, user verification will only be conducted upon complete data submission. Data are used to ensure taskers' legitimacy and the right to work in their local jurisdiction as well as for payroll services.
+
+    - Data will be passed onto the Clients once an explicit hiring arrangement has been confirmed via the platform.
+
+    - Taskers have the rights to request access to a copy of their personal data and to request correction of the data by emailing customer service department at [cs@jobdoh.com](mailto:cs@jobdoh.com) or by visiting our office at 16th floor, Cornwall House, Taikoo Place, Quarry Bay, Hong Kong.
+
+    Privacy Policy Statement ("PPS")
+
+    - Data collected include but not limited to photos, official identification documents, address proof, bank account number (for payroll transfer). Data are used to ensure taskers' legitimacy and the right to work in their local jurisdiction as well as for payroll services.
+
+    - The platform has SSL + Amazon Web Services security protection, and data for inactive users will be stored for no more than two years.
 
 9.  **Links to Other Websites**
 
