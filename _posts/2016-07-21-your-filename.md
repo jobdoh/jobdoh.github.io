@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: 'Xania Wong - CEO@JOBDOH featured in Human Resources Online '
 description: ''
 author: ''
