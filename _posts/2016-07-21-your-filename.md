@@ -3,7 +3,7 @@ layout: blog-post
 section: blog
 category: blog
 published: false
-title: ''
+title: interview-hr-magazine
 ---
 ## Xania Wong - CEO@JOBDOH featured in Human Resources Online Page 33 of magazine
 
