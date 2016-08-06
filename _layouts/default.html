@@ -61,19 +61,20 @@ src="https://www.facebook.com/tr?id=765092943601450&ev=PageView&noscript=1"
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
         
-        <li><a class="{% if page.section == 'employee' %}active{% endif %}" href="{{site.baseurl}}/employee">
-          {{ site.data.[pageLang].default['NAV_EMPLOYEE'] }}
-        </a>
-        </li>
+        
         <li><a class="{% if page.section == 'employer' %}active{% endif %}" href="{{site.baseurl}}/employer">
           {{ site.data.[pageLang].default['NAV_EMPLOYER'] }}
+        </a>
+        </li>
+        <li><a class="{% if page.section == 'employee' %}active{% endif %}" href="{{site.baseurl}}/employee">
+          {{ site.data.[pageLang].default['NAV_EMPLOYEE'] }}
         </a>
         </li>
         <li><a class="{% if page.section == 'home' %}active{% endif %}" href="{{site.baseurl}}/">
           {{ site.data.[pageLang].default['NAV_HOME'] }}
         </a></li>
         <li><a class="{% if page.section == 'employer' %}active{% endif %}" href="{{site.baseurl}}/employer">
-          {{ site.data.[pageLang].default['NAV_PRESS'] }}
+          {{ site.data.[pageLang].default['NAV_PRICING'] }}
         </a>
         </li>
         <li><a class="{% if page.section == 'blog' %}active{% endif %}" href="{{site.baseurl}}/blog">
