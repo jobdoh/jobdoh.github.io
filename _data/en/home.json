@@ -27,12 +27,12 @@
   "JOB_TYPE_HOSPITALITY": "Hospitality & Services",
   "JOB_TYPE_HOSPITALITY_DETAIL": "Waitress, Waiter, Banquet Assistant ...",
   "JOB_TYPE_PA": "Personal Assistant",
-  "JOB_TYPE_PA": "Data Entry, Scheduling, Admin Help, Shopping  ...",
+  "JOB_TYPE_PA_DETAIL": "Data Entry, Scheduling, Admin Help, Shopping  ...",
   "JOB_TYPE_LOGISTICS": "Logistics & Errands ",
-  "JOB_TYPE_LOGISTICS": "Delivery, Driver, Queuing ...",
+  "JOB_TYPE_LOGISTICS_DETAIL": "Delivery, Driver, Queuing ...",
   "JOB_TYPE_CREATIVE": "Creatives & Entertainment",
-  "JOB_TYPE_CREATIVE": "Actor, Actress, Extras, Copywriter, Photographer, Videographer ...",
+  "JOB_TYPE_CREATIVE_DETAIL": "Actor, Actress, Extras, Copywriter, Photographer, Videographer ...",
   "JOB_TYPE_BEAUTY": "Beauty & Hair Care",
-  "JOB_TYPE_BEAUTY": "Pedicure/ Manicure Technician, Spa Assistant, Hair Stylist ...",
+  "JOB_TYPE_BEAUTY_DETAIL": "Pedicure/ Manicure Technician, Spa Assistant, Hair Stylist ...",
   
 }
