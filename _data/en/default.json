@@ -1,7 +1,8 @@
 {
-  "NAV_HOME": "Awards",
    "NAV_EMPLOYER": "Hire Workers",
-  "NAV_EMPLOYEE": "Get a Job",
+   "NAV_EMPLOYEE": "Get a Job",
+  "NAV_HOME": "Awards",
+  "NAV_PRICING": "Pricing",
   "NAV_BLOG": "Press/Blog",
   "NAV_LOGIN": "Login",
   "NAV_LOGIN_EMPLOYEES": "LOOKING for WORK",
