@@ -1,9 +1,14 @@
 <!DOCTYPE html>
+{% if page.lang %}
 {% assign pageLang = page.lang %}
-{% if page.lang != true %}
-{% assign pageLang = 'en' %}
 {% else %}
-{% assign pageLang = page.lang %}
+{% assign pageLang = 'en' %}
+{% endif %}
+
+{% if pageLang == 'en' %}
+{% assign pageLangPath = '' %}
+{% else %}
+{% assign pageLangPath = pageLang | append: '/' %}
 {% endif %}
 <html>
 <head>
@@ -60,22 +65,21 @@ src="https://www.facebook.com/tr?id=765092943601450&ev=PageView&noscript=1"
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
-        
-        
-        <li><a class="{% if page.section == 'employer' %}active{% endif %}" href="{{site.baseurl}}/employer">
+
+        <li><a class="{% if page.section == 'home' %}active{% endif %}" href="{{site.baseurl}}/{{pageLangPath}}">
+          {{ site.data.[pageLang].default['NAV_HOME'] }}
+        </a></li>
+        <li><a class="{% if page.section == 'employer' %}active{% endif %}" href="{{site.baseurl}}/{{pageLangPath}}employer">
           {{ site.data.[pageLang].default['NAV_EMPLOYER'] }}
         </a>
         </li>
-        <li><a class="{% if page.section == 'employee' %}active{% endif %}" href="{{site.baseurl}}/employee">
+        <li><a class="{% if page.section == 'employee' %}active{% endif %}" href="{{site.baseurl}}/{{pageLangPath}}employee">
           {{ site.data.[pageLang].default['NAV_EMPLOYEE'] }}
         </a>
         </li>
-        <li><a class="{% if page.section == 'home' %}active{% endif %}" href="{{site.baseurl}}/">
-          {{ site.data.[pageLang].default['NAV_HOME'] }}
-        </a></li>
-        <li><a class="{% if page.section == 'home' %}active{% endif %}" href="{{site.baseurl}}/">
-          {{ site.data.[pageLang].default['NAV_HOWWORKS'] }}
-        </a></li>
+        <!--<li><a class="{% if page.section == 'home' %}active{% endif %}" href="{{site.baseurl}}/{{pageLangPath}}">-->
+          <!--{{ site.data.[pageLang].default['NAV_HOWWORKS'] }}-->
+        <!--</a></li>-->
         <li><a class="{% if page.section == 'blog' %}active{% endif %}" href="{{site.baseurl}}/blog">
           {{ site.data.[pageLang].default['NAV_BLOG'] }}
         </a></li>
