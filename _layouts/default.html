@@ -12,7 +12,7 @@
 {% endif %}
 <html>
 <head>
-  <title>JOBDOH{% if page.url != "/index.html" %} |Fastest way to hire staff and to get work</title>
+   <title>JOBDOH{% if page.url != "/index.html" %} | {{page.title}}{% endif %} Fastest way to hire staff and to get work</title>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no"/>
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog.rss"/>
@@ -30,6 +30,7 @@
   <link rel="stylesheet" href="{{site.baseurl}}/global.css">
 
   {% seo title=false %}
+  
 <!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -44,6 +45,7 @@ fbq('track', "PageView");</script>
 src="https://www.facebook.com/tr?id=765092943601450&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
+
 <meta name="google-site-verification" content="xa3JXehc19Hw9KWk730uo7MrWUXVwPuFirSkW_yt58Q" />
 </head>
 <body>
