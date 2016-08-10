@@ -3,9 +3,11 @@ layout: blog-post
 section: blog
 category: blog
 published: true
-title: 逃離「安穩」的束縛
+title: ''
 description: 如何逃離「安穩」的束縛 找回自由的感覺
 author: JOBDOH
+splash: ''
+image: ''
 ---
 ## 逃離「安穩」的束縛
 
@@ -13,6 +15,8 @@ author: JOBDOH
 
 
 告別壓抑的朝九晚六，我成為了自由工作者。
+
+
  
 畢業前的理想規劃是，找一份穩定工作，每年升職加薪，平步青雲。現實卻是上班下班，營營役役，刻板沈悶。若換過幾次工作，還得招架親友們的冷嘲熱諷，「份份工都做唔長」。
  
