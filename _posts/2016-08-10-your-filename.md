@@ -3,7 +3,7 @@ layout: blog-post
 section: blog
 category: blog
 published: false
-title: ''
+title: 2016-08-21-逃離「安穩」的束縛 .md
 description: 如何逃離「安穩」的束縛 找回自由的感覺
 author: JOBDOH
 ---
