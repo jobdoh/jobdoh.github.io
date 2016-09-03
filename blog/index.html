@@ -42,148 +42,48 @@ title: Blog
             <p>
               {{item.excerpt}}
             </p>
- @import '../../shared/mixins',
-        '../../shared/reset',
-        '../../shared/about-dark';
 
-body {
-  font: 13px/20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
-  color: #404040;
-  background: #e9eff2;
-}
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Share Buttons</title>
+  <link rel="stylesheet" href="css/style.css">
+  <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+  <section class="container">
+    <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.cssflow.com%2Fsnippets%2Fshare-buttons&amp;via=CSSFlow&amp;text=CSS3%20snippet%3A%20share%20buttons" class="share-btn" target="_blank">
+      <span class="share-btn-action share-btn-tweet">Tweet</span>
+      <span class="share-btn-count">481</span>
+    </a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.cssflow.com%2Fsnippets%2Fshare-buttons" class="share-btn" target="_blank">
+      <span class="share-btn-action share-btn-like">Like</span>
+      <span class="share-btn-count">516</span>
+    </a>
+    <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.cssflow.com%2Fsnippets%2Fshare-buttons" class="share-btn" target="_blank">
+      <span class="share-btn-action share-btn-plus">+1</span>
+      <span class="share-btn-count">234</span>
+    </a>
+  </section>
 
-.container {
-  margin: 80px auto;
-  width: 400px;
-  text-align: center;
-}
-
-.share-btn {
-  display: inline-block;
-  vertical-align: top;
-  position: relative;
-  margin: 0 20px;
-  padding-top: 40px;
-  width: 80px;
-  font-weight: bold;
-  text-align: center;
-  text-decoration: none;
-  border-radius: 8px;
-  @include box-shadow(0 2px 2px rgba(black, .2));
-
-  &:active {
-    margin-top: 3px;
-
-    .share-btn-action {
-      padding-bottom: 3px;
-      @include box-shadow(inset 0 -3px rgba(black, .15), inset 0 -1px rgba(black, .15));
-
-      &:after { bottom: 3px; }
-    }
-  }
-}
-
-.share-btn-count {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  line-height: 40px;
-  font-size: 19px;
-  letter-spacing: -1px;
-  color: #555;
-  text-shadow: 0 1px white;
-  background: #e6eff5;
-  border-width: 1px 1px 0;
-  border-style: solid;
-  border-color: #c5c5c5 #bbb;
-  border-radius: 8px 8px 0 0;
-  @include linear-gradient(top, rgba(black, .03), transparent 40%);
-  @include box-shadow(inset 0 1px rgba(white, .5), 0 1px rgba(black, .18), 0 2px rgba(black, .07));
-
-  &:before, &:after {
-    content: '';
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -6px;
-    border: 6px solid transparent;
-    border-top-color: #e6eff5;
-  }
-
-  &:before {
-    margin-left: -7px;
-    margin-top: 1px;
-    border-width: 7px;
-    border-top-color: rgba(black, .07);
-  }
-}
-
-.share-btn-action {
-  display: block;
-  position: relative;
-  line-height: 32px;
-  padding: 2px 0 6px;
-  font-size: 12px;
-  color: white;
-  text-shadow: 0 1px 1px rgba(black, .4);
-  border: solid rgba(black, .18);
-  border-width: 0 1px;
-  border-radius: 0 0 8px 8px;
-
-  &:before {
-    content: '';
-    display: inline-block;
-    vertical-align: top;
-    margin: 8px 2px 0 0;
-    width: 18px;
-    height: 18px;
-    background-image: url('../img/icons.png');
-  }
-
-  &:after {
-    content: '';
-    position: absolute;
-    top: 0;
-    bottom: 6px;
-    left: 0;
-    right: 0;
-    border-radius: 0 0 6px 6px;
-    @include box-shadow(inset 0 -1px 2px rgba(white, .25));
-  }
-}
-
-.share-btn-tweet {
-  background: #83cfe8;
-  @include linear-gradient(top, #83cfe8, #6ebbd4);
-  @include box-shadow(inset 0 -6px rgba(black, .16), inset 0 -1px rgba(black, .15));
-
-  &:before { margin-left: -3px; }
-  &:after { @include box-shadow(inset 0 -1px 2px rgba(white, .5)); }
-
-  + .share-btn-count {
-    @include box-shadow(inset 0 1px rgba(white, .5), 0 1px rgba(black, .12), 0 2px rgba(black, .04));
-    &:before { border-top-color: rgba(black, .05); }
-  }
-}
-
-.share-btn-like {
-  background: #6480bd;
-  @include linear-gradient(top, #6480bd, #3c5894);
-  @include box-shadow(inset 0 -6px rgba(black, .15), inset 0 -1px rgba(black, .2));
-
-  &:before { background-position: -18px 0; }
-}
-
-.share-btn-plus {
-  background: #626262;
-  @include linear-gradient(top, #626262, #404040);
-  @include box-shadow(inset 0 -6px rgba(black, .08), inset 0 -1px rgba(black, .3));
-
-  &:before { display: none; }
-}
-            
-          </div>
+  <section class="about">
+    <p class="about-links">
+      <a href="http://www.cssflow.com/snippets/share-buttons" target="_parent">View Article</a>
+      <a href="http://www.cssflow.com/snippets/share-buttons.zip" target="_parent">Download</a>
+    </p>
+    <p class="about-author">
+      &copy; 2012&ndash;2013 <a href="http://thibaut.me" target="_blank">Thibaut Courouble</a> -
+      <a href="http://www.cssflow.com/mit-license" target="_blank">MIT License</a><br>
+      Original PSD by <a href="http://dribbble.com/shots/345520-Share-Buttons-PSD" target="_blank">Sacha Greif</a>
+    </p>
+  </section>
+</body>
+</html>          </div>
         </div>
 
         {% endfor %}
