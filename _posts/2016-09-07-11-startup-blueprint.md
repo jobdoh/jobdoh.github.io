@@ -34,46 +34,46 @@ blueprint的專業導師團隊不斷擴大，吸納超過70位香港企業的頂
 
 獲選Startup名單如下：
 
-1.向藍天能源科技公司
+1.[向藍天能源科技公司](http://www.hibluesky.co/)
 
 向藍天能源科技公司鼓勵人們監察自己的能源使用情況，提供節能資訊，幫助人們在未來選擇更高效的能源。向藍天能源科技公司旨在令能源消耗這概念更簡單易明，從而使人們監察自身能源使用的過程更具趣味。
 
-2.領創派
+2.[領創派](http://www.launchpilots.com/)
 
 領創派是一個具影響力的營銷平台，幫助品牌透過贊助具影響力的學生領袖及學生社團，激活其校園客戶群。
 
-3.Optica
+3.[Optica](http://www.opticatechnology.com/)
 
 Optica研發了創新軟件 OpticaCG，以美觀的方式將顯示器展現的顏色進行區分，幫助全球超過2.5億色盲患者辦別更多色彩。
 
-4.SnagR
+4.[SnagR](http://www.snagr.com.hk/)
 
 地盤巡視和施工缺陷的嶄新網上及流動管理系統，透過SnagR， 駐地盤工程師可以拍下地盤巡視中遇到的任何問題，將其插入電子版圖紙並傳送至相關部門，取代繁複且容易出錯的手動標示，令地盤問題處理及檢查更加簡便高效。
 
-5.Locate
+5.[Locate](http://www.locategroup.com/)
 
 Locate讓航空旅客追踪他們的行李，並提升行李處理的透明度。Locate的設計適用於任何行李箱，將使行李丟失的情況成為歷史。
 
-6.BrandPit
+6.[BrandPit](http://brand-pit.com/)
 
 協助品牌及市場研究公司了解真正的消費者習慣， 透過圖像識別技術，BrandPit解決了傳統文字資料分析的不足，掃清語言障礙、垃圾郵件標籤、不含關鍵字的用戶帖等一系列障礙。
 
-7.Variab.ly
+7.[Variab.ly](http://www.variab.ly/)
 
 Variab.ly打破電子商務及零售市場的現有格局，令買家及商戶得以私下自動議價。Variab.ly研發的專利計算系統讓買賣雙方可以自動協商出最優惠價格，團隊正透過遊戲化以吸引消費者參與並培養忠誠度，從而進一步推廣產品。
 
-8.Easyship
+8.[Easyship](http://www.goeasyship.com/)
 
 一站式滿足電子商務賣家的銷售需要，Easyship為網絡零售商帶來⼀站式的物流解決方案—只需一個指令，即可完成收貨、包裝、運輸到訂單追蹤的一系列服務。
 
-9.JOBDOH
+9.[JOBDOH](https://www.jobdoh.com/frontpage/)
 
 急需臨時工？請使用JOBDOH – ⼀個優質員工的地區性預約平台。JOBDOH的高品質臨時工作配對方案將空缺職位與臨時工作人員無縫對接，有效減少缺席率、工作表現差異及行政負擔，讓臨時工招聘不再更加快捷高效。
 
-10.TofuPay
+10.[TofuPay](http://www.tofupay.com/)
 
 TofuPay讓網上支付變得更簡易、更經濟。因應亞洲區客戶需求，TofuPay簡化支付流程。除了包括PayPal及AsiaPay的功能外，TofuPay更以獨特的設計及具針對性的方案解決了網上支付的常見問題，如提升客戶服務質素、簡化商戶帳號註冊流程、處理經常性支付、以及提供優惠及透明的收費架構。
 
-11.actiMirror
+11.[actiMirror](http://www.actimirror.com/en/home/)
 
 為零售、酒店、房地產等行業提供數據分析和針對性媒體內容的新世代智能鏡片，actiMirror在“大數據”平台上運行，將戲劇性地重塑未來我們購物及享受酒店設施的方式。
