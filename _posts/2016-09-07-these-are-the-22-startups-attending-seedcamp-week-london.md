@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: These Are The 22 Startups Attending Seedcamp Week London
 ---
 ![SCWL15_p1.jpg]({{site.baseurl}}/media/SCWL15_p1.jpg)
