@@ -5,6 +5,8 @@ category: blog
 published: false
 title: 'startup of the month: JOBDOH'
 ---
+13 March, 2015
+
 JOBDOH are turning the tables on recruitment. Their platform transforms the casual labour market, seamlessly connecting available jobs with quality temporary labour. This startup is raising eyebrows internationally, with good reason.  
 
 We interview JOBDOH's co-founder and Director of Business Development Xania Wong to get an update: 
@@ -43,4 +45,5 @@ JOBDOH view ourselves as not just a marketplace but an eventual solution for fle
 
 Aside from achieving operational optimization, we intend to expand to the rest of the region, making JOBDOH a "made in Hong Kong" success story.
 
-![]({{site.baseurl}}/media/Jobdoh.JPG)
+![]({{site.baseurl}}/media/Jobdoh.JPG)![Jobdoh.JPG]({{site.baseurl}}/media/Jobdoh.JPG)
+
