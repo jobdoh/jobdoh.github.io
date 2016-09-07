@@ -9,6 +9,8 @@ title: >-
 ---
 ![19jan_p1.jpg]({{site.baseurl}}/media/19jan_p1.jpg)
 
+Raymond Yip, Fiona Lau and Tony Wong and from Shopline
+
 While a new generation of entrepreneurs is emerging in Hong Kong, both local and from abroad, young business bosses still face challenges in securing seed capital from local financial resources.
 
 An interim report from Google and the Chinese University (CUHK) Center for Entrepreneurship shows that while nearly two-thirds of a pool of local experts interviewed consider inadequate accessibility to financial resources as the most important limitation for Hong Kong entrepreneurs, 88 per cent of 612 young entrepreneurs surveyed cited self-funding as their major source of seed capital.
@@ -44,6 +46,7 @@ She adds: “Hooking the audience in the first 30 seconds is vital. You need an 
 Lai is a founding member of Optica, a start-up that provides software technology to improve the visual experience of people who suffer from colour blindness. When he pitches his business to potential investors, he highlights the significant market potential (250 million people worldwide are colour blind), as well as his team expertise and his personal entrepreneurial journey.
 
 ![19jan_p2.jpg]({{site.baseurl}}/media/19jan_p2.jpg)
+
 Jeremy Lai of Optica
 
 “Selling yourself comes first, product comes second,” he says, “You can’t expect a green light right away. It is important to leave an impression so that you can follow up with potential investors after the pitch.”
@@ -53,6 +56,7 @@ This might be easier said than done, however. None of the six teams from the EYE
 Lai sees trial and error as an opportunity to learn. He explains: “It is rewarding to meet panel members who ask tough, difficult questions as they are vital pointers for taking your venture to the next level. Business meetings and pitches, formal and informal, are the bread and butter activities of most start-ups; so don't despair if you have a ‘bad’ meeting. The most important thing is to learn from it and make your next presentation even better.”
 
 ![19jan_p3.jpg]({{site.baseurl}}/media/19jan_p3.jpg)
+
 Xania Wong of Jobdoh
 
 Fundraising for start-ups is indeed a long and winding road but should hold no fears for forward-looking entrepreneurs.
