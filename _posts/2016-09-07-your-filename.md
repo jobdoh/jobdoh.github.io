@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: ''
 ---
 ## A breath of fresh flair: young Hong Kong entrepreneurs chase start-up dreams in Silicon Valley
