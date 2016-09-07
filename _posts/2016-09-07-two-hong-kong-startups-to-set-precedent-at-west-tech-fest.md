@@ -2,12 +2,8 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: Two Hong Kong startups to set precedent at West Tech Fest
-description: ''
-author: ''
-splash: ''
-image: ''
 ---
 It’s the first time that two non-Australian startups have been selected as finalists at the OzAPP Awards
 
