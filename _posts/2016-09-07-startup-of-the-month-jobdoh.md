@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: 'startup of the month: JOBDOH'
 ---
 13 March, 2015
