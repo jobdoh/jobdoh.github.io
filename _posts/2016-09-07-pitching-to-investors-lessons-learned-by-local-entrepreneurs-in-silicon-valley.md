@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: >-
   Pitching to investors: lessons learned by local entrepreneurs in Silicon
   Valley
@@ -66,4 +66,3 @@ In fact, last year Hong Kong start-ups attracted record levels of venture capita
 As Shopline’s Yip puts it: “I have been rejected many times … A lot of investors will tell you that it’s like dating. I kind of get it. You have to say: ‘Here is the product and here is the team. I hope you like it. If you don’t, that’s okay.’ Then you move on.”
 
 Table: Essential ingredients for a five-minute presentation in Silicon Valley
-
