@@ -46,4 +46,3 @@ JOBDOH view ourselves as not just a marketplace but an eventual solution for fle
 Aside from achieving operational optimization, we intend to expand to the rest of the region, making JOBDOH a "made in Hong Kong" success story.
 
 ![]({{site.baseurl}}/media/Jobdoh.JPG)![Jobdoh.JPG]({{site.baseurl}}/media/Jobdoh.JPG)
-
