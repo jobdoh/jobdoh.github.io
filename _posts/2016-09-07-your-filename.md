@@ -28,6 +28,7 @@ Ten months earlier, Lai and his future business partners, then yet to meet, had 
 The programme joined a modest series of funding and training initiatives already serving tech entrepreneurs in the city - but brought with it a little Google pizzazz. A skills-training boot camp for 900 at Chinese University would be followed by a selective mentoring programme for 40 promising teams, largely at weekends over the course of the year, in which they would refine their business plans and build their prototypes. Then, after a series of competitions, the six teams with the best ideas would be flown to America's pioneering tech hub in northern California, known as Silicon Valley, for a packed tour of major tech organisations and start-ups. There they would get to meet, learn from and pitch to a series of big names in innovation, get a sense of what success could look like in a mature market for venture capital investments - and think about how to help Hong Kong get there.
 
 ![16Nov_p2.jpg]({{site.baseurl}}/media/16Nov_p2.jpg)
+
 Participants in the EYE programme at Google's Silicon Valley campus
 
 GOOGLE HEADQUARTERS, MOUNTAIN VIEW, California. Notebooks and coffee cups lay discarded across a large meeting room as 13 Hong Kong twenty-somethings, dutifully clad in Google-coloured tees, sit absorbed in a series of slides. There's Google's self-driving car, a smart contact lens that helps to manage diabetes and Project Loon - a balloon network on the edge of space that connects people in remote areas to the internet.
@@ -47,6 +48,7 @@ At Stanford University, the key themes are passion and resilience.
 "I get thousands of letters from young people in Asia saying, thank you 'for telling me that I can break the rules' and reminding them that a lot of rules in their society are really just recommendations," says Tina Seelig, executive director of Stanford's Technology Ventures programme and author of books on innovation, entrepreneurship and risk. "It takes a tremendous amount of work to innovate and push beyond the obvious answer, and starting a company is hard. You should be able to do it even when people say you're crazy."
 
 ![16Nov_p3.jpg]({{site.baseurl}}/media/16Nov_p3.jpg)
+
 Kenneth Chung practises pitching
 
 The messages hit home. Interim results from a study by the Centre for Entrepreneurship and Google Hong Kong, released earlier this year, reveal that Hong Kong's financial success has left it with little appetite for risk, and a low entrepreneurial spirit, largely due to the social pressure applied on those who consider the start-up path. Among the entrepreneurs it surveyed, pressure from family and friends had increased 39 per cent and 436 per cent, respectively, after their enrolment into start-up-related programmes.
@@ -62,6 +64,7 @@ Smith's reflections on failure, in particular, resonate. Many of the young entre
 Indeed, for many on the trip, the change of location means a new identity of sorts: from black sheep to something … cooler.
 
 ![16Nov_p4.jpg]({{site.baseurl}}/media/16Nov_p4.jpg)
+
 The Google Garage, a 24-hour lap open to all employees
 
 "Here, anyone doing a start-up is basically a rock star," successful start-up founder Martin Frid-Nielsen tells the group during a panel discussion. "Sure, you may be a starving one, and your music may need some work, but you're cool - and you get to be with people just like you."
@@ -77,6 +80,7 @@ INDEED, THE ENTIRE TRIP - while providing technical tips and pointers on busines
 "We need to get away from this idea that success is still just pure money and move with the global shift towards technology and new ideas," says Theodore Ma Heng, Hong Kong entrepreneur and founder of co-working space CoCoon, which supported EYE. "We need a culture that embraces risk and agility, and people who don't conform to traditional ways of doing business. Traditional markets are important, but where are we evolving? What's next?"
 
 ![16Nov_p5.jpg]({{site.baseurl}}/media/16Nov_p5.jpg)
+
 Matthew Tam, of myflat.hk
 
 There are, however, signs that a supportive ecosystem is starting to be nurtured in the city. Most of the winning EYE teams have benefited from some other form of help, such as incubator programmes at the Hong Kong Science Park and Cyberport, the PolyU Micro Fund 2014 and Invest HK's Startmeup programme. The Chinese University study reported a 300 per cent growth in the territory's physical infrastructure and services since 2008, including accelerators such as start-up incubator NEST and co-working spaces like CoCoon, which organises competitions, internships and pitch nights with judges from the business community.
