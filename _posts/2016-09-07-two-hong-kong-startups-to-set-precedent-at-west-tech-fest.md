@@ -1,0 +1,34 @@
+---
+layout: blog-post
+section: blog
+category: blog
+published: false
+title: Two Hong Kong startups to set precedent at West Tech Fest
+---
+It’s the first time that two non-Australian startups have been selected as finalists at the OzAPP Awards
+
+By Michael de Waal-Montgomery
+
+![4janp1.jpg]({{site.baseurl}}/media/4janp1.jpg)
+
+Image credit: Bill Tai, OzAPP Awards Co-Founder and Rohan McDougall, Director IP Commercialisation, Curtin University
+
+Two Hong Kong startups have become the first non-Australians to make it as finalists in the OzAPP Awards. They will be flown to Perth, Australia to compete at West Tech Fest on February 18.
+
+The event is considered one of the largest tech conferences in the country.
+
+JOBDOH and Joy Sprouts will be be competing against three other Australian-based startups after they made it to the top five of the OzAPP Awards.
+
+
+
+Also Read: Startups from Hong Kong, Singapore make it to OzAPP Awards Top 20 list
+
+“These two startups are being flown to Perth to compete at the West Tech Fest… It is also the first time that two startups out of Australia have been selected as finalists. They have been selected ahead of 14 other Australian startups,” Mikey Kailis, OzAPP Awards Director, told e27.
+
+JOBDOH has also just been accepted into Hong Kong’s new B2B tech accelerator Blueprint.
+
+An official release shared more on the two Hong Kong startups:
+
+JOBDOH is a location based, on-demand mobile platform to book best-fit temporary workers, targeting the food and beverage, hospitality and exhibition industry in Hong Kong.
+Joy Sprouts is a games and activities app that develops a range of important skills for children to encourage total childhood development. The app provides personalised reports that allow parents to follow their pre-schooler’s progress across key areas of development.
+The three other finalists are APE Mobile from Perth, and FreightExchange and Kindy from Sydney. Up for grabs is the QPrize Australia, a USD$100,000 convertible note awarded by US investment firm Qualcomm Ventures.
