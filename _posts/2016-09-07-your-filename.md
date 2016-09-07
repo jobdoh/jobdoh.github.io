@@ -13,6 +13,7 @@ On a whistle-stop tour of Silicon Valley, some of Hong Kong's most promising you
 
 BY JO BAKER
 15 NOV 2014
+
 ![16Nov_p1.jpg]({{site.baseurl}}/media/16Nov_p1.jpg)
 Participants in the Empowering Young Entrepreneurs programme at Google's Silicon Valley campus 
 
@@ -27,6 +28,7 @@ Ten months earlier, Lai and his future business partners, then yet to meet, had 
 "Investing in tech-driven start-ups is an important way for Hong Kong to build on its global reputation and stay competitive," says Dominic Allon, managing director of Google Hong Kong. "But it's still not easy to be a young entrepreneur here. We need to connect the raw talent here with better infrastructure and support."
 
 The programme joined a modest series of funding and training initiatives already serving tech entrepreneurs in the city - but brought with it a little Google pizzazz. A skills-training boot camp for 900 at Chinese University would be followed by a selective mentoring programme for 40 promising teams, largely at weekends over the course of the year, in which they would refine their business plans and build their prototypes. Then, after a series of competitions, the six teams with the best ideas would be flown to America's pioneering tech hub in northern California, known as Silicon Valley, for a packed tour of major tech organisations and start-ups. There they would get to meet, learn from and pitch to a series of big names in innovation, get a sense of what success could look like in a mature market for venture capital investments - and think about how to help Hong Kong get there.
+
 ![16Nov_p2.jpg]({{site.baseurl}}/media/16Nov_p2.jpg)
 Participants in the EYE programme at Google's Silicon Valley campus
 
@@ -44,7 +46,9 @@ And over the next five days, during the group's string of meetings with start-up
 
 At Stanford University, the key themes are passion and resilience.
 
-"I get thousands of letters from young people in Asia saying, thank you 'for telling me that I can break the rules' and reminding them that a lot of rules in their society are really just recommendations," says Tina Seelig, executive director of Stanford's Technology Ventures programme and author of books on innovation, entrepreneurship and risk. "It takes a tremendous amount of work to innovate and push beyond the obvious answer, and starting a company is hard. You should be able to do it even when people say you're crazy."![16Nov_p3.jpg]({{site.baseurl}}/media/16Nov_p3.jpg)
+"I get thousands of letters from young people in Asia saying, thank you 'for telling me that I can break the rules' and reminding them that a lot of rules in their society are really just recommendations," says Tina Seelig, executive director of Stanford's Technology Ventures programme and author of books on innovation, entrepreneurship and risk. "It takes a tremendous amount of work to innovate and push beyond the obvious answer, and starting a company is hard. You should be able to do it even when people say you're crazy."
+
+![16Nov_p3.jpg]({{site.baseurl}}/media/16Nov_p3.jpg)
 Kenneth Chung practises pitching
 
 The messages hit home. Interim results from a study by the Centre for Entrepreneurship and Google Hong Kong, released earlier this year, reveal that Hong Kong's financial success has left it with little appetite for risk, and a low entrepreneurial spirit, largely due to the social pressure applied on those who consider the start-up path. Among the entrepreneurs it surveyed, pressure from family and friends had increased 39 per cent and 436 per cent, respectively, after their enrolment into start-up-related programmes.
@@ -73,6 +77,7 @@ But social pressure is not the only problem facing entrepreneurs in Hong Kong. E
 INDEED, THE ENTIRE TRIP - while providing technical tips and pointers on business plans and pitching - gives rise to reflection on the kind of culture Hong Kong will need in order to thrive in the tech age, and the importance of it doing so. Many hopefully refer to the city as a potential regional headquarters for start-ups, citing its success as a global financial hub, its business-friendly policies and good infrastructure - and the value of such a reinvigoration as it reappraises its role in relation to the mainland.
 
 "We need to get away from this idea that success is still just pure money and move with the global shift towards technology and new ideas," says Theodore Ma Heng, Hong Kong entrepreneur and founder of co-working space CoCoon, which supported EYE. "We need a culture that embraces risk and agility, and people who don't conform to traditional ways of doing business. Traditional markets are important, but where are we evolving? What's next?"
+
 ![16Nov_p5.jpg]({{site.baseurl}}/media/16Nov_p5.jpg)
 Matthew Tam, of myflat.hk
 
@@ -83,6 +88,7 @@ There are, however, signs that a supportive ecosystem is starting to be nurtured
 Of course, it's hardly fair to compare Hong Kong with the American tech hub, acknowledges EYE participant Eddie Lin Chin-ngai. "Silicon Valley is a unique product of its environment, and of the American culture," says the entrepreneur, whose start-up, HITA, aims to be the go-to platform for indie music in the region. As a regional hub and one so close to the mainland, he says, it will naturally have different needs and strengths.
 
 MOST AGREE ON THE INGREDIENTS that Hong Kong's start-up scene will need to thrive. Better hard infrastructure - accelerators, workspace and seed capital - is key, while education could better connect the dots between business and innovation, says Mingles Tsoi Ming-to, who managed much of the EYE programme as project director at the Centre for Entrepreneurship. He acknowledges that the overseas education of almost all of the EYE winners probably gave them an advantage. Initiatives to boost the low numbers of women starting their own businesses, particularly in technology, are also sorely needed. Only three of the winning 14 EYE participants were women, and various reports, including one commissioned this year by The Women's Foundation in Hong Kong, highlight the stark gender gap in the city's technology and high-growth start-up scene. The foundation holds stereotyping and male-predominant networks largely to blame, recommending training and mentoring for female business owners and better access to R&D and technology.
+
 ![16Nov_p6.jpg]({{site.baseurl}}/media/16Nov_p6.jpg)
 Xania Wong, of jobdoh
 
@@ -118,6 +124,7 @@ Frederik Pferdt (below), head of innovation and creativity programmes at Google,
 "Innovation can't really be instructed, but you can allow it to happen if you create the environment for it. We have principles that allow this culture to operate. One is our mission statement ['Organise the world's information and make it universally accessible and useful']: it's important to have that statement for making the world a better place. Sure the free food and massages are perks, but it's all about having a mission that motivates Googlers to come here every day and know that they can impact a lot of people's lives.
 
 "The second is transparency. You'll notice that you can see into a lot of offices and workspaces, and the offices are often very open-designed. We try to engineer serendipity into our workspace design, where on a lot of occasions throughout the day, people can meet from other departments, share ideas and learn from each other. Everyone has access to everyone's calendars. If I see that people are meeting on a specific topic that I can add value to, it's absolutely fine to join it. Our transparency works vertically, too. Leaders share all the information they have, and everything is available to find out. You can't take credit as a manager for your people's work, or take credit for something you didn't work on. And you may have heard of our TGIF, Thank Google it's Friday meeting? Now this is on Thursday evening so that everyone can participate, as it's streamed across the world. [Google founders] Larry [Page] and Sergey [Brin] are here every Thursday for an hour and a half to present updates on the company and take live questions. That level of transparency is unbelievable and creates an environment of trust between peers, co-workers and leaders.
+
 ![16Nov_p7.jpg]({{site.baseurl}}/media/16Nov_p7.jpg)
 
 "Freedom is a lot of what our culture is about. If you give people freedom, they will amaze you. Ideas and innovation can happen anywhere, from the intern that works here from four to six months to the VP of a product area. At Google, we have something called 20 Per Cent Time. Every employee has about one day per week to work on things that might be their hobbies, not related to their core project. A software engineer or someone in marketing would probably do something similar on the weekends anyway, so if you help them to bring it into the organisation, give them an environment to experiment - like our shared 24-hour lab space, the Garage - we benefit and share. We have a track record of some of those 20 Per Cent projects being turned into real products. Take Gmail, which was created by one engineer in his 20 per cent Time. It wasn't part of Google's strategy at the time but it's now one of our most successful products. Here you'll find people working on anything you can imagine, from 3D printing to code.
