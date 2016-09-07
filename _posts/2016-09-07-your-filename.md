@@ -90,6 +90,7 @@ Of course, it's hardly fair to compare Hong Kong with the American tech hub, ack
 MOST AGREE ON THE INGREDIENTS that Hong Kong's start-up scene will need to thrive. Better hard infrastructure - accelerators, workspace and seed capital - is key, while education could better connect the dots between business and innovation, says Mingles Tsoi Ming-to, who managed much of the EYE programme as project director at the Centre for Entrepreneurship. He acknowledges that the overseas education of almost all of the EYE winners probably gave them an advantage. Initiatives to boost the low numbers of women starting their own businesses, particularly in technology, are also sorely needed. Only three of the winning 14 EYE participants were women, and various reports, including one commissioned this year by The Women's Foundation in Hong Kong, highlight the stark gender gap in the city's technology and high-growth start-up scene. The foundation holds stereotyping and male-predominant networks largely to blame, recommending training and mentoring for female business owners and better access to R&D and technology.
 
 ![16Nov_p6.jpg]({{site.baseurl}}/media/16Nov_p6.jpg)
+
 Xania Wong, of jobdoh
 
 And youth, too, remains a barrier.
