@@ -3,9 +3,11 @@ layout: blog-post
 section: blog
 category: blog
 published: false
-title: ''
+title: >-
+  A breath of fresh flair: young Hong Kong entrepreneurs chase start-up dreams
+  in Silicon Valley
 ---
-## A breath of fresh flair: young Hong Kong entrepreneurs chase start-up dreams in Silicon Valley
+
 
 On a whistle-stop tour of Silicon Valley, some of Hong Kong's most promising young entrepreneurs learn the risks and rewards of chasing their start-up dream. Words and pictures by Jo Baker.
 
