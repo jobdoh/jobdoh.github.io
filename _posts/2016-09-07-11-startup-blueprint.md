@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: 11家Startup入選太古地產「blueprint」加速器
 ---
 ![16janp1.png]({{site.baseurl}}/media/16janp1.png)
