@@ -3,9 +3,7 @@ layout: blog-post
 section: blog
 category: blog
 published: false
-title: >-
-  A breath of fresh flair: young Hong Kong entrepreneurs chase start-up dreams
-  in Silicon Valley
+title: ''
 ---
 ## A breath of fresh flair: young Hong Kong entrepreneurs chase start-up dreams in Silicon Valley
 
