@@ -51,4 +51,4 @@ Look out for a very special announcement in the coming weeks, as we’ll be inve
 Follow the action on Twitter
  
 
-If you’re a startup founder interested in applying to Seedcamp, applications for May’s Seedcamp Week Berlin will be opening on Monday 9th February. So check back at our website for the official announcement or keep an eye on our Twitter or Facebook for details.
+If you’re a startup founder interested in applying to Seedcamp, applications for May’s Seedcamp Week Berlin will be opening on Monday 9th February. So check back at our website for the official announcement or keep an eye on our [Twitter](https://twitter.com/seedcamp) or [Facebook](https://www.facebook.com/seedcamp) for details.
