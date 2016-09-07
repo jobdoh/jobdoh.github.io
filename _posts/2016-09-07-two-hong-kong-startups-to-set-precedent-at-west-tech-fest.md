@@ -13,7 +13,7 @@ By Michael de Waal-Montgomery
 
 Image credit: Bill Tai, OzAPP Awards Co-Founder and Rohan McDougall, Director IP Commercialisation, Curtin University
 
-Two Hong Kong startups have become the first non-Australians to make it as finalists in the OzAPP Awards. They will be flown to Perth, Australia to compete at West Tech Fest on February 18.
+Two Hong Kong startups have become the first non-Australians to make it as finalists in the OzAPP Awards[http://ozapp.com.au/](http://ozapp.com.au/). They will be flown to Perth, Australia to compete at West Tech Fest[https://e27.co/australia-west-tech-fest-ozapp-awards-final-pitching-event-20150112/](https://e27.co/australia-west-tech-fest-ozapp-awards-final-pitching-event-20150112/) on February 18.
 
 The event is considered one of the largest tech conferences in the country.
 
