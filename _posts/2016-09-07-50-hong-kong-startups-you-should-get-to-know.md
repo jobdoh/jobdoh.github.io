@@ -8,50 +8,50 @@ title: 50 Hong Kong Startups You Should Get To Know
 
 There are some exciting startups forming in Hong Kong so this week we searched high and low to bring you our list of 50 follow-worthy startups from the Hong Kong startup ecosystem.
 Fintech
-1. Gatecoin
+1. [Gatecoin](https://www.gatecoin.com/)
 Gate Coin is the first digital currency financial institution that builds products and services to change the way people transfer and trade money. The company aims to make international trades and cross-border money transfers of Bitcoin faster and cheaper.
 Gate Coin is working on consumer level exchange first, and has already sold 15,000+ prepaid debit cards which can be loaded with bitcoin and used wherever MasterCard is accepted.
 The startup has raised $500,000 in capital, and we are excited to watch how startups like Gate Coin push Bitcoin into the hands of experienced finance professionals, so it can be taken seriously on a global scale.
-2. WeLab
+2. [WeLab](http://www.welab.co/)
 WeLab is an internet finance technology company that made a mark creating WeLend.hk, Hong Kong’s first P2P lending business.
 Launched in 2013 by a team of senior professionals in leading financial institutions like Goldman Sachs, WeLab currently operates WeLend.hk, and China’s first fully mobile P2P lending platform Wolaidai.
 The startup raised a $14M Series A financing from strategic and financial investors, including Sequoia Capital and TOM Group. WeLab is Sequoia Capital’s first startup investment in Hong Kong.
-3. Cashyou
+3. [Cashyou](http://www.cashyou.hk/)
 This startup is the Venmo of Hong Kong. Cashyou is a P2P mobile wallet that makes it quick, easy, and free to transfer money through all major Hong Kong banks for small transactions.
 The platform was designed to offer a convenient way to pay back your friends. Features that separate the app include payment methods by scanning QR codes, entering an email, or choosing the person from Facebook friends list.
 Cashyou is an alumni and winner of the Startup Weekend Hong Kong 2014. Venmo blew up in just a few short years, and we are excited to see the growth of this startup in the Hong Kong market.
-4. Mobexo
+4. [Mobexo](http://mobexo.com/)
 This mobile payment app launched in 2012, is a customizable system of pre-payment, payment, and post-payment services, that lets business owners create customized promotional campaigns via the app’s Merchant Portal.
 Users can pay online or at a participating physical location, and redeem promotional deals from merchants.
 The e-wallet is a free app on iOS, Android, and Windows which allows the parties to transfer funds securely and instantly. Mobexo raised initial funding of $1.8M in 2012.
-5. WeConvene
+5. [WeConvene](https://weconvene.com/)
 Founded in 2012, this startup is marrying the buy side and sell side to a single, global, web-based platform that streamlines corporate access booking, making it more efficient, targeted, trackable, and eliminates the need for email giving analysts and sales people time back in their days.
 The company has raised $3.7M in seed and Series A funding, and has created new offices in Sydney, London, and NYC.
 Late last year the startup acquired Extel (a service that rates and ranks excellence and interactions across the equity community) from Thomson Reuters, which makes us excited to see what blossoms from the merger of the highly complementary businesses within the corporate access industry.
-6. Investable.vc
+6. [Investable.vc](http://www.investable.vc/en/index.html)
 Investable.vc was launched in early 2014 by Nest, a Hong Kong seed investment accelerator. The platform lets professional investors browse through a wide range of pre-vetted startups in Asia, and invest in opportunities, expanding their portfolio.
 The service is membership based, giving investors access to the same opportunities and information as VCs, and provides investment opportunities on a first-come, first-served basis.
 Nest’s investment committee vets and selects startups for the platform (less than 10% are selected).
 Recruiting
-7. Remote Internships
+7. [Remote Internships](http://remoteinternships.com/)
 This bootstrapped startup connects young professionals in design, web development, sales, marketing, and more with remote internship opportunities at global technology startups.
 Startups are able to fill their employment needs in a cost effective, non-restricting way by reaching 4,000+ young professionals globally who are seeking a 1 to 3 month paid internship.
 Intern seekers are connected with startups via a weekly newsletter that is essentially the equivalent of a job board, and can apply to exciting internships that are both fully remote, and paid.
-8. JobDoh
+8. [JobDoh](https://www.jobdoh.com/frontpage/)
 In China, there are 60 million temporary workers for industries like banquets, hotels, and restaurants, who tend to get jobs through friends, family, and word of mouth.
 JobDoh captures this labor force with a location based, on-demand mobile platform that books the best-fit temporary works. JobDoh gets rid of the middleman, and focuses on value creation.
 The app raised $56K to pilot in Hong Kong, and has been in private beta since November of 2014.
 Health Tech
-9. FindDoc
+9. [FindDoc](https://www.finddoc.com/zh-hk)
 Finding the right doctor is already difficult, and trying to research and find an appointment is time consuming.
 FindDoc is like U.S. based Zocdoc for the Hong Kong market, allowing people to access all Hong Kong doctor’s information in one location and in multiple languages.
 Users can use their website or download the free app for iOS and Android to search for healthcare providers by specialty, location, medical card, gender, and spoken language. FindDoc also allows users to easily schedule an appointment for free.
-10. The CareVoice
+10. [The CareVoice](https://www.finddoc.com/zh-hk)
 This social app is the Yelp for medical services and treatments, that provides a platform for users to find unbiased, transparent information on medical providers and treatments from real patient experiences.
 The social app gathers reviews from users on things like hospital visits, treatments, and more, so users can make more informed health decisions.
 The app also helps healthcare providers and businesses understand how to improve their service and products. The startup has raised around 420K in initial funding to date.
 Travel & Experiences
-11. HotelQuickly
+11. [HotelQuickly](https://www.hotelquickly.com/)
 HotelQuickly is a last-minute hotel booking app in Asia that covers 200+ destinations, where hotel rooms available through the app average 28% less expensive than the best rates available online.
 The app curates “offers” based on user location which are only available for same day purchase, moving spare inventory without taking from the existing market.
 The app has generated 900,000+ downloads, with 600,000+ users. In 2013, HotelQuickly raised $1.16M in series A, and $4.5M last year.
