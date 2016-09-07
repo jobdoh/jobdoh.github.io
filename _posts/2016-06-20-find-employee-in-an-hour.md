@@ -10,5 +10,3 @@ splash: ''
 image: ''
 ---
 ![Screen Shot 2016-06-20 at 17.47.13.png]({{site.baseurl}}/media/Screen Shot 2016-06-20 at 17.47.13.png)
-
-
