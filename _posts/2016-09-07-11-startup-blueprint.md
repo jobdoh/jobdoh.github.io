@@ -77,3 +77,5 @@ TofuPay讓網上支付變得更簡易、更經濟。因應亞洲區客戶需求�
 11.[actiMirror](http://www.actimirror.com/en/home/)
 
 為零售、酒店、房地產等行業提供數據分析和針對性媒體內容的新世代智能鏡片，actiMirror在“大數據”平台上運行，將戲劇性地重塑未來我們購物及享受酒店設施的方式。
+
+支持 StartupBeat
