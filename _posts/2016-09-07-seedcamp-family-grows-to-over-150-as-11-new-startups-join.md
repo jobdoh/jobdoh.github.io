@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: Seedcamp Family Grows to Over 150 as 11 New Startups Join
 ---
 Seedcamp Family Grows to Over 150 as 11 New Startups Join
