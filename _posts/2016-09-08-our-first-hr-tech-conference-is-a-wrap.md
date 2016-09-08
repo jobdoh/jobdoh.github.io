@@ -10,4 +10,4 @@ title: 'Our first HR tech conference is a wrap! '
 
 Our first HR tech conference is a wrap! A big thanks to our co-organizer and speaker Katherine, Latticespace and Jessica, Senior Consultant at HKPC.
 
-#JOBDOH #DigitalHiring #OnDemandHiring #GigWork #DataScreening #thefutureofwork
+
