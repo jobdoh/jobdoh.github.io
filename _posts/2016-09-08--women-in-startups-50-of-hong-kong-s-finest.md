@@ -11,7 +11,7 @@ As I sat down to review it last week, I realised that I listed only 1 woman amon
 
 According to BNP Paribas’ “Global Entrepreneurialism Report” (survey of 2,523 entrepreneurs in 17 markets), 37 per cent of entrepreneurs across the globe are women. In Hong Kong, that figure rises to 45% — awesome! It is second only to India where 49 per cent of entrepreneurs are female (I’m proud of that statistic too!).
 
-_Hong Kong ranks second in the world when it comes to women setting up their own businesses — 45% of entrepreneurs are women!_
+Hong Kong ranks second in the world when it comes to women setting up their own businesses — 45% of entrepreneurs are women!
 
 I am a feminist, and sincerely believe women can make the greatest difference to most of this world’s greatest problems. Inspired by the 3 women in my life (mother, wife, sister) who attempt to do so every single day, in their own way.
 
