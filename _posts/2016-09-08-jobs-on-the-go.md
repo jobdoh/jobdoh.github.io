@@ -10,6 +10,7 @@ title: Jobs on the Go
 22 May 2015
 
 ![22mayp1.jpg]({{site.baseurl}}/media/22mayp1.jpg)
+
 JOBDOH founders Mary Cheung (left), Xania Wong (second right), and Eric Fong (far right) with mentor Lewis Wong, show what it takes to launch a start-up
 
 The high turnover and seasonal nature of the temporary job market can often lead to gaps in supply and demand for workers. A Hong Kong-Canadian start-up seeks to address that by creating a mobile platform that seamlessly connects job openings with casual workers.
@@ -19,6 +20,7 @@ JOBDOH was started by three young Canadian entrepreneurs – Mary Cheung, Xania 
 **Tech Efficient**
 
 ![22mayp2.jpg]({{site.baseurl}}/media/22mayp2.jpg)
+
 JOBDOH’s mobile platform seamlessly connects casual workers with temporary-job openings
 
 Ms Cheung said her business partner, Xania Wong, a former Morgan Stanley banker, who also dabbled in the wine business, came up with the idea after seeing problems with the hiring process in the F&B system, where 30 per cent of the workforce is temporary staff. 
@@ -37,7 +39,7 @@ As a prize for winning the Google EYE Programme, the JOBDOH founders were flown 
 
 After four months of “many long hours,” Jobdoh’s mobile platform (beta) launched in November 2014.
 
-Job is Here
+**Job is Here**
 
 The company's name is based on the Cantonese word for “here” or “to arrive,” which is pronounced “doh.” Hence its name reflects the company’s goal of matching job applicants with employers offering seasonal work.
 
@@ -57,13 +59,13 @@ Ms Cheung says that, to date, the site has 1,000 registered users and about 50 c
 
 After recently moving to a new co-working space as an incubatee of Hong Kong Swire Properties’ accelerator programme, Blueprint project, JOBDOH is continuing to build its database. The goal is to have 10,000 temp employees on the platform by this summer and it hopes to eventually expand the business across the border in Shenzhen.
 
-Hong Kong Advantage
+**Hong Kong Advantage**
 
 As a start-up, JOBDOH has the advantage of being a lean and agile operation, according to Ms Cheung. “Hong Kong is such an efficient city, where everything is so fast,” she said, adding that the company has also benefited from Hong Kong’s simple tax system and start-up funding. 
 
 “In Asia, Hong Kong is a better place to test your idea because it’s more international. People in Hong Kong’s start-up scene are also open-minded. That is great to work with. You have to keep finding solutions for problems that arise. That takes creativity and leadership, and you can find good partners with those qualities in Hong Kong.”
 
 Related Link
-JOBDOH
+[JOBDOH](https://www.jobdoh.com/frontpage/?lang=eng)
 
 
