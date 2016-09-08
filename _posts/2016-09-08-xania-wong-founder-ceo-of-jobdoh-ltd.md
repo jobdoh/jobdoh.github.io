@@ -56,10 +56,10 @@ JOBDOH app relieves your hiring headache with its smart-hiring booking platform 
 
 Download JOBDOH app today and start hiring!
 
-JOBDOH platform has won several awards and seats in top incubation around the world, including HK government’s Cyberport Creative Micro Fund, HK Cyberport’s incubation program, Europe’s Seedcamp and Google’s “Empowering Young Entrepreneurs” Program. For more details, visit our FB page https://www.facebook.com/pages/JOBDOH/1518056161749852.
+JOBDOH platform has won several awards and seats in top incubation around the world, including HK government’s Cyberport Creative Micro Fund, HK Cyberport’s incubation program, Europe’s Seedcamp and Google’s “Empowering Young Entrepreneurs” Program. For more details, visit our FB page [https://www.facebook.com/pages/JOBDOH/1518056161749852](https://www.facebook.com/pages/JOBDOH/1518056161749852).
 
 How can people connect with you?
-info@jobdoh.com
+[info@jobdoh.com](info@jobdoh.com)
 
 Twitter handle?
-@jobdoh
+[@jobdoh](http://www.twitter.com/jobdoh)
