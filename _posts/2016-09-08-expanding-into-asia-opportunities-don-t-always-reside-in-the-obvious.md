@@ -6,11 +6,12 @@ published: false
 title: 'Expanding into Asia: Opportunities Don’t Always Reside in the Obvious'
 ---
 Expanding into Asia can be a very attractive but complicated process for first-time entrepreneurs, and some subtle but important factors often go unnoticed. Asia is a very heterogeneous continent with a wide variety of languages spoken, numerous cultures, religions, and many more nuances that are important to consider.
+
 The most common question is: “Where to start?” In this post we summarise tips we brought back from our recent Hong Kong trip from local players to help entrepreneurs jump-start their businesses into this attractive new marketplace.
 
-Earlier this year we announced an exciting partnership with Hong Kong’s Blueprint accelerator, powered by Swire Properties. This relationship is in-line with our ethos to support the growth of Asia’s exciting startup ecosystem, as our very own former Investment Manager, Hilary Szymujko, runs the accelerator program at blueprint.
+Earlier this year we announced an exciting partnership with Hong Kong’s [Blueprint accelerator](http://blueprint.swireproperties.com/), powered by Swire Properties. This relationship is in-line with our ethos to support the growth of Asia’s exciting startup ecosystem, as our very own former Investment Manager, [Hilary Szymujko](https://twitter.com/hilszy), runs the accelerator program at blueprint.
 
-After a successful series of intensive workshops run in January, last week Carlos Espinal, Partner at Seedcamp, returned to Hong Kong, to continue this constructive partnership in our attempt to meet and support ambitious startup founders.
+After a successful series of intensive workshops run in January, last week [Carlos Espinal](https://twitter.com/cee), Partner at Seedcamp, returned to Hong Kong, to continue this constructive partnership in our attempt to meet and support ambitious startup founders.
 
 The agenda kicked off with the new cohort of Blueprint startups pitching to Carlos for early feedback and the week worked its way up with a series of workshops Carlos delivered on brand identity and positioning, the fundraising process, and common failures points during company building.
 
@@ -21,7 +22,7 @@ While being there we thought of organising a Seedcamp Meet & Greet event to expl
 
 Carlos and Blueprint New Cohort
 
-We couldn’t have left without meeting local key players in the investment ecosystem, such as Tytus Michalski, Managing Director at Fresco Capital and Bay McLaughlin, Co-Founder at Brinc.io. And while we were on it, we’ve put together a Seedcamp Podcast Series focused on Asia, reporting their suggestions and tips for founders ready to expand into Asia.
+We couldn’t have left without meeting local key players in the investment ecosystem, such as [Tytus Michalski](https://twitter.com/tytusm), Managing Director at [Fresco Capital](http://frescocapital.com/) and [Bay McLaughlin](https://twitter.com/betabay), Co-Founder at [Brinc.io](http://brinc.io/). And while we were on it, we’ve put together a Seedcamp Podcast Series focused on Asia, reporting their suggestions and tips for founders ready to expand into Asia.
 
 Here’s a summary before you hit the play button.
 
@@ -38,7 +39,8 @@ Adapt your business model
 Prioritize the top markets (i.e. countries or cities) across Asia that you would like to target
 
 “Think about how you can adapt your business model to that market or pick the market that best suits your business model, and set up the right plan for engaging with your customers.”
-Listen here to the Seedcamp Podcast Series focused on Asia
+
+[Listen here to the Seedcamp Podcast Series focused on Asia](http://seedcamp.com/seedcamp-podcast-episode-41-tytus-michalski-on-the-startup-investment-ecosystem-in-asia/)
 
 Part-two of our Asian Podcast series continues the discussion about the Asian investment ecosystem with Bay McLaughlin, Co-Founder at Brinc.io. With nearly a decade of experience in startups and at Apple, Bay decided to move to Asia, learn about the local startup ecosystem through his partner’s network and experience, and start supporting the new generation of hardware entrepreneurship.
 
@@ -55,9 +57,10 @@ We asked Bay what are the challenges for hardware entrepreneurs in penetrating t
 **Be open-minded and learn from locals**
 
 “The founders that are most successful are those who are open-minded and really learn from the locals. Coming to Asia with the mentality that you are going to run your business in the same way you did in the West is not the right approach. You have to learn how the local ecosystem works, you can’t deny or not to pay attention to the Asian way of doing business.”
-Listen here to the Seedcamp Podcast Series focused on Asia 
 
-We’re wrapping up our Asian series by interviewing Xania Wong, CEO at JOBDOH, a Hong Kong-based, Seedcamp-backed company that links short-term workers with employers. JOBDOH’s vision is to transform the way we work and live. They target the hospitality, exhibitions and promotions markets, of which all are growing strongly in Asia with a large demand of fluctuating daily workers. Xania shares her experience launching her first business in Hong Kong.
+[Listen here to the Seedcamp Podcast Series focused on Asia](http://seedcamp.com/seedcamp-podcast-episode-42-bay-mclaughlin-on-the-hidden-secrets-of-hardware-investing/)
+
+We’re wrapping up our Asian series by interviewing Xania Wong, CEO at [JOBDOH](https://www.jobdoh.com/frontpage/), a Hong Kong-based, Seedcamp-backed company that links short-term workers with employers. JOBDOH’s vision is to transform the way we work and live. They target the hospitality, exhibitions and promotions markets, of which all are growing strongly in Asia with a large demand of fluctuating daily workers. Xania shares her experience launching her first business in Hong Kong.
 
 To founders who want to expand to Asia, what would you recommend? What’s the key thing to keep in mind?
 
@@ -67,12 +70,13 @@ Business model fit
 “The adoption to technology in Asia tends to lag behind Europe and US a few years, so innovation we witnessed in the West is now being rapidly applied and accepted. For example, Uber just launched in HK last year, and many uber for X models or marketplaces are now starting to spread across India, Indonesia and HK.”
 Recognize the local culture and customs
 “It’s important to recognize that culture and customs in specific Asian countries can be vastly different, even those across China are not homogeneous. While China is attractive due to its potential market size, the challenges in penetrating this market can be paramount. It’s very important to have local partners in these places. Also being able to speak a few words in the local language (and to drink!) will help build relationships sooner.”
-Read the whole interview here
+
+[Read the whole interview here](http://seedcamp.com/an-entrepreneurs-perspective-of-the-asian-ecosystem-xania-wong-ceo-at-jobdoh)
 
 We are seeing a rapid growth in the Asian ecosystem. Co-working spaces, funding programs, accelerators and incubators are popping up rapidly, making this geography more and more attractive for Western founders. But it’s clear that tapping into the Asian market is still a challenging process. Above all, it requires entrepreneurs to be open-minded, learn local rules, and adapt to the local culture.
 
 Hopefully you’ll find the advice and the podcast series insightful! Remember that after all… opportunities reside where things are not necessarily obvious!
 
-By Francesca Di Pietro & Dave Haynes
+By [Francesca Di Pietro](https://twitter.com/dipietrofra) & [Dave Haynes](https://twitter.com/haynes_dave)
 
-If you run a disruptive startup with global ambitions, we want to hear from you! View our events page to apply to the next Seedcamp Week or meet with the Seedcamp team in advance. Don’t forget to follow us on Twitter for the latest news. Best of luck!
+If you run a disruptive startup with global ambitions, we want to hear from you! View our events page to apply to the next [Seedcamp Week](http://seedcamp.com/events/7th-sept-2015-london-opening-soon/) or meet with the Seedcamp team in advance. Don’t forget to follow us on [Twitter](https://twitter.com/seedcamp) for the latest news. Best of luck!
