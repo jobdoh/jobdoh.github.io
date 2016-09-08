@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: 'Expanding into Asia: Opportunities Don’t Always Reside in the Obvious'
 ---
 Expanding into Asia can be a very attractive but complicated process for first-time entrepreneurs, and some subtle but important factors often go unnoticed. Asia is a very heterogeneous continent with a wide variety of languages spoken, numerous cultures, religions, and many more nuances that are important to consider.
