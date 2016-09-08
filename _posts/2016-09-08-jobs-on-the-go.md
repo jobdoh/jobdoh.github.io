@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: Jobs on the Go
 ---
 **Asia’s first temp job-matching mobile platform has been launched in Hong Kong by a Canadian start-up.**
@@ -67,5 +67,3 @@ As a start-up, JOBDOH has the advantage of being a lean and agile operation, acc
 
 Related Link
 [JOBDOH](https://www.jobdoh.com/frontpage/?lang=eng)
-
-
