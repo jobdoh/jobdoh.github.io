@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: This start-up offers fake partners for hire
 ---
 Thursday, 11 Feb 2016 | 8:58 PM ET
