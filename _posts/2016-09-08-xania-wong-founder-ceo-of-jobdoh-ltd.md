@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: 'Xania Wong, Founder & CEO of JOBDOH Ltd. '
 ---
 ![13jan16_p1.jpg]({{site.baseurl}}/media/13jan16_p1.jpg)
