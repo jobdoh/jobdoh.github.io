@@ -46,15 +46,15 @@ Part-two of our Asian Podcast series continues the discussion about the Asian in
 
 We asked Bay what are the challenges for hardware entrepreneurs in penetrating this geography and what are the best ways to do so successfully. So Bay… Where to start?
 
-**Partner with local businesses**
+- **Partner with local businesses**
 
 “We tend to tell the entrepreneurs we work with that they can accelerate the time needed to take their product to market by focusing on partnerships with local businesses. Partner first, get mentors, and then bring on board the talents you need.”
 
-**Look at your team and the competences you need in your team**
+- **Look at your team and the competences you need in your team**
 
 “Hardware is not hard as it seems! But the experience that you actually need to do a fiscal product development is undeniable more complicated. You need to look at your team and the competences that you need in your team.”
 
-**Be open-minded and learn from locals**
+- **Be open-minded and learn from locals**
 
 “The founders that are most successful are those who are open-minded and really learn from the locals. Coming to Asia with the mentality that you are going to run your business in the same way you did in the West is not the right approach. You have to learn how the local ecosystem works, you can’t deny or not to pay attention to the Asian way of doing business.”
 
