@@ -1,0 +1,12 @@
+---
+layout: blog-post
+section: blog
+category: blog
+published: false
+title: 芝華士創立的「The Venture贏之有道」
+---
+芝華士創立的「The Venture贏之有道」在香港有二十二名報名參加，最後選出5位社會企業家。當中，有為本地發展相關的工作和機會，一次想以城市農業去解決糧食可持續安全發展的問題，也有一個科技初創企業，通過語音導航去讓視障人士能夠使用手機應用程式。
+職到JOBDOH會前往紐約市的全球總決賽為一百 萬美元資金份額展開爭奪。
+
+Chivas Hong Kong's The Venture Year 2 saw 22 applicants and five shortlisted candidates tackling issues such as employment equality, food sustainability, tech access for the visually impaired, and the environmental impact of travel.
+職到 Jobdoh will now go on to the global finals and have a chance at US$1 million in funding and support.
