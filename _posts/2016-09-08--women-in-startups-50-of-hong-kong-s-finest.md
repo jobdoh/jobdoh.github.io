@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: ' Women in Startups — 50+ of Hong Kong’s finest!'
 ---
 2 weeks ago I wrote a Guide to the Hong Kong Startup Community. I’m glad to say that the piece was well received by many and has since appeared in various other publications across the web. The article is structured in a 5x5 format — listing 5 each of accelerators/incubators, coworking spaces, startups, startup events and entrepreneurs.
