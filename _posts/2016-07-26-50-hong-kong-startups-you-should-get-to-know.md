@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: 50 Hong Kong Startups You Should Get To Know
 ---
 
