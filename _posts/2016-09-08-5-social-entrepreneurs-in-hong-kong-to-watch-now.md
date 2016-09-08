@@ -2,7 +2,7 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
+published: true
 title: 5 social entrepreneurs in Hong Kong to watch now
 ---
 
@@ -94,5 +94,3 @@ My advice to aspiring entrepreneurs… would be to stick around and team up with
 TAGS:
 
 CHIVAS REGAL, ENTREPRENEURS, HONG KONG, SOCIAL ENTREPRENEURS, THE VENTURE
-
-
