@@ -84,7 +84,7 @@
   <div class="container">
 
     <h1 class="text-center">
-      Quick Hire to Save Time for Yourself
+      {{ site.data.[page.lang].employer['JUMBO_TITLE'] }}
     </h1>
 
     <div class="row">
@@ -95,9 +95,9 @@
           <br class="visible-sm visible-xs">
           <fieldset>
             <label class="email text-left">
-              <input type="email" name="email" placeholder="Enter Your Email" required>
+              <input type="email" name="email" placeholder="{{ site.data.[page.lang].employer['ENTER_EMAIL_PLACEHOLDER'] }}" required>
             </label>
-            <input type="submit" class="btn-wr btn btn-primary btn-lg" value="HIRE NOW!"/>
+            <input type="submit" class="btn-wr btn btn-primary btn-lg" value="{{ site.data.[page.lang].employer['SIGNUP_ACTION'] }}"/>
           </fieldset>
         </form>
       </div>
@@ -120,7 +120,7 @@
             <img src="{{site.baseurl}}/media/employer/feature_1.png" style="width:50px; height:50px">
           </div>
           <div style="padding-top: 7px;">
-            Effective - Match in 3 min
+            {{ site.data.[page.lang].employer['FEATURE_1'] }}
           </div>
         </div>
         <p>&nbsp;</p>
@@ -130,7 +130,7 @@
             <img src="{{site.baseurl}}/media/employer/feature_2.png" style="width:50px; height:50px">
           </div>
           <div style="padding-top: 7px;">
-            Authentic - Verified taskers
+            {{ site.data.[page.lang].employer['FEATURE_2'] }}
           </div>
         </div>
         <p>&nbsp;</p>
@@ -140,7 +140,7 @@
             <img src="{{site.baseurl}}/media/employer/feature_3.png" style="width:50px; height:50px">
           </div>
           <div style="padding-top: 7px;">
-            Convenient - Easy scheduling for bulk hire
+            {{ site.data.[page.lang].employer['FEATURE_3'] }}
           </div>
         </div>
         <p>&nbsp;</p>
@@ -150,14 +150,14 @@
             <img src="{{site.baseurl}}/media/employer/feature_4.png" style="width:50px; height:50px">
           </div>
           <div style="padding-top: 7px;">
-            Efficient - One-stop shop (incl. payroll, insurance services)
+            {{ site.data.[page.lang].employer['FEATURE_4'] }}
           </div>
         </div>
 
         <div class="row text-center"
              style="margin-top: 45px; margin-left: 4px; margin-right: 15px;">
           <p style="margin-left: 10%; font-size: 2.0em;">
-            <b>HIRE NOW!</b>
+            <b>{{ site.data.[page.lang].employer['SIGNUP_ACTION'] }}</b>
           </p>
           <p style="margin-top: 17px; margin-left: 10%">
             <a href="https://itunes.apple.com/app/id956413185">
