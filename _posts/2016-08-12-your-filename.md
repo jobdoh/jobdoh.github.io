@@ -2,12 +2,8 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
-title: '職場炒散文化有商機'
-description: ''
-author: ''
-splash: ''
-image: ''
+published: true
+title: 職場炒散文化有商機
 ---
 
 暑期一向是求職旺季，但在講求work-life balance年代，年輕人求職都要講求respect；事實上，你打開職場討論區每日最HIT話題，一定係話「頭先見工HR好晒我時間」。80後金融女黄貝芝（Xania），看準了職場炒散潮推出搵工Apps「職到」（JOBDOH），最快3分鐘就可以成功為僱主及僱員做到配對，問Xania點解會搞呢個平台，她會答你：「其實我都覺傳統interview好晒時間。」就係因為呢個理念，食正90後職場一族鍾意「炒散」的世界性趨勢，在推出不夠一年已融資近300萬港元，當中更成為歐洲知名創業加速基金Seedcamp首個投資的亞洲項目。創業界金句：「食正氣流，你就可以升天。」原來真係有道理的。
