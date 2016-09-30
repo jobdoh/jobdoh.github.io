@@ -3,9 +3,8 @@ layout: blog-post
 section: blog
 category: blog
 published: true
-title: Untitled
+title: 求職心聲---勞工處（一）
 ---
-## 求職心聲---勞工處（一）
 
 ![c3bea4ae666f78591c75f9aff3145b09.png]({{site.baseurl}}/media/c3bea4ae666f78591c75f9aff3145b09.png)
 
