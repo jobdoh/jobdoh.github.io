@@ -2,8 +2,8 @@
 layout: blog-post
 section: blog
 category: blog
-published: false
-title: ''
+published: true
+title: Untitled
 ---
 ## 求職心聲---勞工處（一）
 
