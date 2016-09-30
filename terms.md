@@ -55,7 +55,7 @@ THE COMPANY DOES NOT PROVIDE RECRUITMENT SERVICES, AND THE COMPANY IS NOT AN EMP
 
     Regardless of the length of the Task Duration, the calculation of the Conversion Fee from temporary to permanent (12% of total annual remuneration) is based on 12-months remuneration. Please note that any Tasker presented to, and placed in Client remains a Company Tasker from the date of introduction to Client.
     
-    Clients are required to pay the Platfrom the relevant Service fee within five business days upon completion of each Task. Failing that, the Platform will impose a 15% outstanding payment charge on all past due amounts.
+    Clients are required to pay the Platfrom the relevant Service fee within five business days upon completion of each Task. Failing that, the Platform will impose a 15% outstanding payment surcharge on all past due amounts.
 
 4.  **Release**
 
