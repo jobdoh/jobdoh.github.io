@@ -37,7 +37,7 @@ THE COMPANY DOES NOT PROVIDE RECRUITMENT SERVICES, AND THE COMPANY IS NOT AN EMP
 
     Users of the Service will be required to provide their credit card or bank account details to Company and the Payment Service Provider retained by Company (the “PSP”).
 
-    Clients will be responsible for paying the invoice for each Task (the “Invoice”), which will include the pricing terms of the Task agreed with and provided by a Tasker (“Task Payment”), any out of pocket expenses agreed with and submitted by a Tasker in connection with the Task, any tip or gratuity, if applicable, and the fee ("Service Fee") the Company assesses for the Service, based on the Task Payment amount.
+    Unless otherwise agreed in writing, clients will be responsible for paying the invoice for each Task (the “Invoice”), which will include the pricing terms of the Task agreed with and provided by a Tasker (“Task Payment”), any out of pocket expenses agreed with and submitted by a Tasker in connection with the Task, any tip or gratuity, if applicable, and the fee ("Service Fee") the Company assesses for the Service, based on the Task Payment amount.
 
     Taskers may be required to provide bank account details to Company. Or they may be required to register with the PSP, agree to Terms of Service of the PSP and go through a vetting process at the request of the PSP to set up their account with the PSP. Terms of Service between Taskers and the PSP retained by Company are available here (the “PSP Agreement”). By accepting these Terms of Use, each Tasker agrees that they have downloaded or printed, and reviewed and agreed to the PSP Agreement. Please note that the Company is not a party to the PSP Agreement and that you, the PSP and any other parties listed in the PSP Agreement are the parties to the PSP Agreement and that the Company has no obligations or liability to any Tasker under the PSP Agreement.
 
@@ -47,13 +47,15 @@ THE COMPANY DOES NOT PROVIDE RECRUITMENT SERVICES, AND THE COMPANY IS NOT AN EMP
 
     Clients will be liable for any taxes (including VAT, if applicable) required to be paid on the Services provided under the Agreement (other than taxes on the Company’s income).
 
-    By using the Service, Client acknowledges that Taskers referred to Client under this agreement are referred in relation to any - short term, part-time, contract, consultative or any basis of employment - Tasks. Should Client decide to hire any Taskers introduced under the Terms of this agreement - on a part-time, contract, consultative or any basis of employment separate from this original permanent arrangement – Client will be liable to pay the relevant agency fee, as shown on the Platform.
+    By using the Service, Client acknowledges that Taskers referred to Client under this agreement are referred in relation to any - short term, part-time, contract, consultative or any basis of employment - Tasks. Should Client decide to hire any Taskers introduced under the Terms of this agreement - on a part-time, contract, consultative or any basis of employment separate from this original permanent arrangement – Client will be liable to pay the relevant Service fee, as shown on the Platform.
 
     In the event Client offers other Tasks or employment - on any basis - within 12 months of Tasker introduction through Company, Client shall pay Company the relevant Service Fee. The Agreement is that Company’s Service Fee will apply to any Taskers, initiated, referred or listed by Company for a specific Task, or any alternate Tasks or employment opportunities (contracted or permanent) offered and employed by Client or a subsidiary, affiliate, or related company, within this timeframe, whether in the capacity of a Tasker or an employee. The introduction effected by Company to Client is confidential and is not for referral to any outside third party not legally associated with Client.
 
     Any interview of Taskers referred by Company is deemed as acceptance of Company’s standard Terms of Business.
 
     Regardless of the length of the Task Duration, the calculation of the Conversion Fee from temporary to permanent (12% of total annual remuneration) is based on 12-months remuneration. Please note that any Tasker presented to, and placed in Client remains a Company Tasker from the date of introduction to Client.
+    
+    Clients are required to pay the Platfrom the relevant Service fee within five business days upon completion of each Task. Failing that, the Platform will impose a 15% outstanding payment charge on all past due amounts.
 
 4.  **Release**
 
