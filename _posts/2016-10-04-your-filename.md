@@ -3,13 +3,13 @@ layout: blog-post
 section: blog
 category: blog
 published: false
-title: ''
+title: Canada Toronto AM1540 A1 Chinese Radio interviewing Xania@JOBDOH
 description: ''
 author: ''
 splash: ''
 image: ''
 ---
-## A New Post
 
+![13631431_1762225703999562_6757555134729594507_n.jpg]({{site.baseurl}}/media/13631431_1762225703999562_6757555134729594507_n.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BtuojQurI9U" frameborder="0" allowfullscreen> </iframe>
+![13606446_1762233073998825_6346387868895973582_n.jpg]({{site.baseurl}}/media/13606446_1762233073998825_6346387868895973582_n.jpg)
