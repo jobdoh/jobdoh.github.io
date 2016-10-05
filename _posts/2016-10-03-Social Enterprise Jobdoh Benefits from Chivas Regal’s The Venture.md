@@ -1,3 +1,11 @@
+---
+layout: blog-post
+section: blog
+category: blog
+published: true
+title: Social Enterprise Jobdoh Benefits from Chivas Regal’s The Venture
+---
+
 ![JOBDOH Chivas the venture]({{site.baseurl}}/media/chivas-venture-social-enterprise-trevor-noah1.jpg)
 Winners and panellists in New York
 
@@ -42,7 +50,3 @@ The Venture, it would seem, is the ultimate win-win.
 
 ![chivas-venture-social-enterprise-trevor-noah6.jpg]({{site.baseurl}}/media/chivas-venture-social-enterprise-trevor-noah6.jpg)
 The winners, from left, Oscar Andres Mendez, Julia Römer, Or Retzkin, Maria Pacheco, Kenny Ewan
-
-
-
-
