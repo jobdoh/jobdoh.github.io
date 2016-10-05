@@ -50,3 +50,5 @@ The Venture, it would seem, is the ultimate win-win.
 
 ![chivas-venture-social-enterprise-trevor-noah6.jpg]({{site.baseurl}}/media/chivas-venture-social-enterprise-trevor-noah6.jpg)
 The winners, from left, Oscar Andres Mendez, Julia Römer, Or Retzkin, Maria Pacheco, Kenny Ewan
+
+Source: http://hashtaglegend.com/post/social-enterprise-jobdoh-benefits-chivas-regals-venture?utm_content=bufferc6dca&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
