@@ -141,6 +141,7 @@ Tips: If you are returning to the same city within six months, it might be more 
 ### After the Show
 
 
+![pexels-photo1@1x.jpg]({{site.baseurl}}/media/pexels-photo1@1x.jpg)
 
 
 **9. Follow-up quickly**
