@@ -9,7 +9,7 @@ author: ''
 splash: ''
 image: ''
 ---
-![]({{site.baseurl}}/media/Wine-and-Dine-Festival-courtesy-Discover-Hong-Kong.jpg)![Wine-and-Dine-Festival-courtesy-Discover-Hong-Kong.jpg]({{site.baseurl}}/media/Wine-and-Dine-Festival-courtesy-Discover-Hong-Kong.jpg)
+![Wine-and-Dine-Festival-courtesy-Discover-Hong-Kong.jpg]({{site.baseurl}}/media/Wine-and-Dine-Festival-courtesy-Discover-Hong-Kong.jpg)
 
 
 ## 10 tips for success at HKTDC Hong Kong International Wine & Spirits Fair
@@ -98,7 +98,7 @@ Tips: when handing out business cards to Chinese at the HKTDC Hong Kong Internat
 
 ### During the Event
 
-![]({{site.baseurl}}/media/pexels-photo.jpg)![pexels-photo.jpg]({{site.baseurl}}/media/pexels-photo.jpg)
+![pexels-photo.jpg]({{site.baseurl}}/media/pexels-photo.jpg)
 
 
 
@@ -140,8 +140,7 @@ Tips: If you are returning to the same city within six months, it might be more 
 
 ### After the Show
 
-
-![pexels-photo1@1x.jpg]({{site.baseurl}}/media/pexels-photo1@1x.jpg)
+![pexels-photo1x.jpg]({{site.baseurl}}/media/pexels-photo1x.jpg)
 
 
 **9. Follow-up quickly**
