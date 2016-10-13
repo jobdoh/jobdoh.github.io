@@ -14,10 +14,9 @@ image: ''
 
 ## 10 tips for success at HKTDC Hong Kong International Wine & Spirits Fair
 
+> The HKTDC Hong Kong International Wine & Spirits Fair is fast approaching but there is still time to get ready and prepare for success.
 
-The HKTDC Hong Kong International Wine & Spirits Fair is fast approaching but there is still time to get ready and prepare for success.
-
-We have put together a list of tips to maximize your return on investment.
+>We have put together a list of tips to maximize your return on investment.
 
 
 ### Before the Show
