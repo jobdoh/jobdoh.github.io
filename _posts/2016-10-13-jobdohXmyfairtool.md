@@ -14,14 +14,16 @@ image: ''
 
 ## 10 tips for success at HKTDC Hong Kong International Wine & Spirits Fair
 
-> The HKTDC Hong Kong International Wine & Spirits Fair is fast approaching but there is still time to get ready and prepare for success.
 
-> We have put together a list of tips to maximize your return on investment.
+The HKTDC Hong Kong International Wine & Spirits Fair is fast approaching but there is still time to get ready and prepare for success.
+
+We have put together a list of tips to maximize your return on investment.
 
 
 ### Before the Show
 
 ![VinitalyVeronaBooth.jpg]({{site.baseurl}}/media/VinitalyVeronaBooth.jpg)
+
 
 
 **1. Promote your booth**
@@ -102,6 +104,7 @@ Tips: when handing out business cards to Chinese at the HKTDC Hong Kong Internat
 
 
 
+
 **5. Capture leads efficiently**
 
 Make sure your entire team is using the same method for capturing leads and collecting the essential information.
@@ -141,6 +144,7 @@ Tips: If you are returning to the same city within six months, it might be more 
 ### After the Show
 
 ![pexels-photo1x.jpg]({{site.baseurl}}/media/pexels-photo1x.jpg)
+
 
 
 **9. Follow-up quickly**
